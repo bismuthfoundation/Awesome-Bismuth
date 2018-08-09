@@ -7,7 +7,7 @@ This is a WIP in its early stage. Feel free to propose content!
 
 * [Apps](https://github.com/bismuthfoundation/Awesome-Bismuth/blob/master/Apps.md)  
   Bismuth apps and utilities
-* [Distributed Apps](https://github.com/bismuthfoundation/Awesome-Bismuth/blob/master/Dapps.md)  
+* [Distributed Apps](https://github.com/bismuthfoundation/Awesome-Bismuth/blob/master/DApps.md)  
   Bismuth based distributed apps
 * [Articles](https://github.com/bismuthfoundation/Awesome-Bismuth/blob/master/Articles.md)  
   Official and third party articles about BIS
