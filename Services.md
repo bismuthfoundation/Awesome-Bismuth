@@ -2,7 +2,7 @@
 
 Core services and things you can buy with $BIS.
 
-## Exchanges
+## Exchanges
 
 * Cryptopia  
   This first exchange $BIS was listed on. The service successfully went through a growth phase and is working flawlessly since.  
@@ -10,7 +10,7 @@ Core services and things you can buy with $BIS.
 * BiteBTC
 * Heat nodes DEX
   
-## Mining pools
+## Mining pools
 
 Significant pools, listed by alphabetical order. Check pool page for fees and DYOR.
 
@@ -19,11 +19,11 @@ Significant pools, listed by alphabetical order. Check pool page for fees and DY
 * EggPool.net
 * Noncepool.com
 
-## Hosting
+## Hosting
 
 WIP
 
-## Hypernodes
+## Hypernodes
 
 WIP
 
