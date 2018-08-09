@@ -1,7 +1,7 @@
 # Awesome-Bismuth
 A curated list of Bismuth related content, code, projects
 
-* [https://github.com/bismuthfoundation/Awesome-Bismuth/blob/master/Apps.md](Apps)  
+* [Apps](https://github.com/bismuthfoundation/Awesome-Bismuth/blob/master/Apps.md)  
   Bismuth apps and utilities
-* (https://github.com/bismuthfoundation/Awesome-Bismuth/blob/master/Dapps.md)[Distributed pps]  
+* [Distributed Apps] (https://github.com/bismuthfoundation/Awesome-Bismuth/blob/master/Dapps.md)  
   Bismuth based distributed apps
