@@ -2,14 +2,19 @@
 
 WIP
 
-## Twitter
+## Discord
+
+This is the Bismuth main source of chat, news and support  
+https://discord.gg/mDxgJc5
+
+## Twitter
 
 * Official account https://twitter.com/bismuth_cz
 * @hclivess - Core dev, founder
 * gawlea -
 * ...
 
-## Other channels
+## Other channels
 
 ### Facebook
 
