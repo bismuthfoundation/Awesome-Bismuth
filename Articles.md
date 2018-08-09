@@ -9,7 +9,7 @@ http://www.mic-journal.no/ABS/MIC-2017-4-1.asp
 
 ### “Tail Removal Block Validation: Implementation and Analysis”
 
-Authors: Jan Kucera (Bismuth Foundation) and Geir Hovland (University of Agder)
+Authors: Jan Kucera (Bismuth Foundation) and Geir Hovland (University of Agder)  
 http://www.mic-journal.no/ABS/MIC-2018-3-1.asp
 
 ## Team Interviews
