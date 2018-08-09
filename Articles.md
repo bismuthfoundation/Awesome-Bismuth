@@ -1,5 +1,7 @@
 # Articles, Interviews about Bismuth Cryptocurrency
 
+WIP
+
 ## Academic articles
 
 ### “Nonlinear Feedback Control and Stability Analysis of a Proof-of-Work Blockchain”
@@ -17,3 +19,5 @@ http://www.mic-journal.no/ABS/MIC-2018-3-1.asp
 ## Official content
 
 ## Third party articles
+
+- External review by ...
