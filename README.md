@@ -1,6 +1,8 @@
 # Awesome-Bismuth
 A curated list of Bismuth related content, code, projects.
 
+[Bismuth](http://bismuth.cz) is the first python based cryptocurreny, protocol and platform, writte nfrom scratch.
+
 This is a WIP in its early stage. Feel free to propose content!
 
 * [Apps](https://github.com/bismuthfoundation/Awesome-Bismuth/blob/master/Apps.md)  
