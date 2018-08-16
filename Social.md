@@ -7,6 +7,14 @@ WIP
 This is the Bismuth main source of chat, news and support  
 https://discord.gg/mDxgJc5
 
+## Bitcointalk
+
+* Bismuth : ANN - May 1, 2017.
+  https://bitcointalk.org/index.php?topic=1896497
+
+* Bismuth ~ Python Blockchain ~ SHA224 ~ Most Profitable GPU Coin
+  https://bitcointalk.org/index.php?topic=2575277.0
+
 ## Twitter
 
 * Official account https://twitter.com/bismuth_cz
