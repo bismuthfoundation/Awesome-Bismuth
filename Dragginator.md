@@ -4,7 +4,8 @@ Some third party services are significant enough they deserve a page of their ow
 
 ## Dragginator official content
 
-* Looking for sponsors for cup
+* Looking for sponsors for cup  
+  https://www.slideshare.net/Dragginator/dragginator-2018-cup-sponsors
 
 
 ## Third party content
