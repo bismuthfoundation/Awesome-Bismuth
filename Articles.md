@@ -39,3 +39,12 @@ http://www.mic-journal.no/ABS/MIC-2018-3-1.asp
 * Bismuth Review – Cryptocurrency Guide
   https://statrader.com/bismuth-review/
   
+## Bismuth In the press
+
+* Bismuth - No ICO, No Premine and First Python Coin!
+  https://steemit.com/bitcoin/@kingscrown/bismuth-no-ico-no-premine-and-first-python-coin
+  
+* What is Bismuth coin?
+  https://www.geekxplore.com/what-is-bismuth-coin.html
+
+
