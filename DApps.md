@@ -21,4 +21,5 @@ http://bismuth.live:1212/
 ### Dragginator
 
 A collectible games based upon non fungible tokens where you collect and evolve draggons eggs.  
-Https://Dragginator.com
+Https://Dragginator.com  
+Dragginator has its own awesome page: [Dragginator](https://github.com/bismuthfoundation/Awesome-Bismuth/blob/master/Dragginator.md)  
