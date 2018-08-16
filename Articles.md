@@ -16,8 +16,16 @@ http://www.mic-journal.no/ABS/MIC-2018-3-1.asp
 
 ## Interviews
 
+* 
+
+* 
+
+
 * The Bismuth plugin system - Dev oriented talk about the exclusive plugin system of Bismuth and its applications.  
   https://steemit.com/cryptocurrency/@bitsignal/the-bismuth-plugin-system
+  
+* EggdraSyl interviewed the developer of dragginator.com, which is a fun game on top of the #Bismuth blockchain
+  https://steemit.com/cryptocurrency/@bitsignal/developer-interview-draggon-s-eggs-soccer-cup  
 
 
 ## Official content
