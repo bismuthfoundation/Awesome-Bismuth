@@ -7,6 +7,13 @@ We try to link to thhem all from here
 
 * Bismuth How to: a Lot of info on various aspects of bismuth.  From install to wallet, nodes, mining...  
   https://github.com/EggPool/BismuthHowto
+  
+Check also:
+  
+* [Social](https://github.com/bismuthfoundation/Awesome-Bismuth/blob/master/Social.md)  
+  Connect with BIS, get help
+  
+* [Videos](https://github.com/bismuthfoundation/Awesome-Bismuth/blob/master/Videos.md)  
 
 ## Hyper Nodes
 
