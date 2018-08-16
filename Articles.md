@@ -26,6 +26,16 @@ http://www.mic-journal.no/ABS/MIC-2018-3-1.asp
   Geir Hovland and Jan Kucera, May 5, 2018.
   https://heatnodes.org/wp-content/uploads/2018/05/bis-security-20180505.pdf
 
-## Third party articles
+# Third party articles
 
-- External review by ...
+## Reviews
+
+* Bismuth — Project Review by Thant11
+  https://medium.com/@thant11/bismuth-project-review-fdaa4976bd33
+  
+* 3 promising Altcoins to invest in for 2018. (A Thoreau Analysis)
+  https://medium.com/@altcointhoreau/3-promising-altcoins-to-invest-in-for-2018-a-thoreau-analysis-f6cc95cd83
+  
+* Bismuth Review – Cryptocurrency Guide
+  https://statrader.com/bismuth-review/
+  
