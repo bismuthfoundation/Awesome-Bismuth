@@ -14,7 +14,11 @@ http://www.mic-journal.no/ABS/MIC-2017-4-1.asp
 Authors: Jan Kucera (Bismuth Foundation) and Geir Hovland (University of Agder)  
 http://www.mic-journal.no/ABS/MIC-2018-3-1.asp
 
-## Team Interviews
+## Interviews
+
+* The Bismuth plugin system - Dev oriented talk about the exclusive plugin system of Bismuth and its applications.  
+  https://steemit.com/cryptocurrency/@bitsignal/the-bismuth-plugin-system
+
 
 ## Official content
 
@@ -23,28 +27,31 @@ http://www.mic-journal.no/ABS/MIC-2018-3-1.asp
   https://bismuth.cz/semantic.pdf
   
 * Security of the Bismuth Blockchain: Analysis and Simulation  
-  Geir Hovland and Jan Kucera, May 5, 2018.
+  Geir Hovland and Jan Kucera, May 5, 2018.  
   https://heatnodes.org/wp-content/uploads/2018/05/bis-security-20180505.pdf
 
 # Third party articles
 
 ## Reviews
 
-* Bismuth — Project Review by Thant11
+* Bismuth — Project Review by Thant11  
   https://medium.com/@thant11/bismuth-project-review-fdaa4976bd33
   
-* 3 promising Altcoins to invest in for 2018. (A Thoreau Analysis)
+* 3 promising Altcoins to invest in for 2018. (A Thoreau Analysis)  
   https://medium.com/@altcointhoreau/3-promising-altcoins-to-invest-in-for-2018-a-thoreau-analysis-f6cc95cd83
   
-* Bismuth Review – Cryptocurrency Guide
+* Bismuth Review – Cryptocurrency Guide  
   https://statrader.com/bismuth-review/
   
 ## Bismuth In the press
 
-* Bismuth - No ICO, No Premine and First Python Coin!
+* Bismuth Hypernodes on masternodes.com  
+  http://www.masternodes.com/news/hypernodes-a-bismuths-feature/
+
+* Bismuth - No ICO, No Premine and First Python Coin!  
   https://steemit.com/bitcoin/@kingscrown/bismuth-no-ico-no-premine-and-first-python-coin
   
-* What is Bismuth coin?
+* What is Bismuth coin?  
   https://www.geekxplore.com/what-is-bismuth-coin.html
 
 
