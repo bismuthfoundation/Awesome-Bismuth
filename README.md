@@ -5,6 +5,9 @@ A curated list of Bismuth related content, code, projects.
 
 This is a WIP in its early stage. Feel free to propose content!
 
+
+* [FAQ](https://github.com/bismuthfoundation/Awesome-Bismuth/blob/master/FAQ_Help.md)  
+  Bismuth FAQ resources
 * [Apps](https://github.com/bismuthfoundation/Awesome-Bismuth/blob/master/Apps.md)  
   Bismuth apps and utilities
 * [Distributed Apps](https://github.com/bismuthfoundation/Awesome-Bismuth/blob/master/DApps.md)  
