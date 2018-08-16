@@ -10,9 +10,12 @@ https://discord.gg/mDxgJc5
 ## Twitter
 
 * Official account https://twitter.com/bismuth_cz
-* @hclivess - Core dev, founder
-* gawlea -
-* ...
+* @hclivess personal account - Core dev, founder https://twitter.com/tezosevangelist
+* https://twitter.com/bismuthdev
+* EggdraSyl - https://twitter.com/Eggpoolnet
+* Maccaspacca https://twitter.com/maccaspacca1
+* Alatay https://twitter.com/BryanMcEachran
+* Jim https://twitter.com/jimtalksdata
 
 ## Other channels
 
@@ -32,8 +35,8 @@ https://www.reddit.com/r/cryptobismuth
 ### Bis related
 Accounts for bis related services
 
-* Cryptopia (Exchange)
-* Dragginator https://twitter.com/dragginator
+* Cryptopia (Exchange) https://twitter.com/Cryptopia_NZ
+* Dragginator https://twitter.com/iyomisc
 
 
 ### Bis supporters
