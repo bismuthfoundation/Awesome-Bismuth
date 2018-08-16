@@ -13,6 +13,8 @@ This is a WIP in its early stage. Feel free to propose content!
   Official and third party articles about BIS
 * [Social](https://github.com/bismuthfoundation/Awesome-Bismuth/blob/master/Social.md)  
   Connect with BIS, get help
+* [Videos](https://github.com/bismuthfoundation/Awesome-Bismuth/blob/master/Videos.md)  
+  All Bismuth related videos  
 * [Services](https://github.com/bismuthfoundation/Awesome-Bismuth/blob/master/Services.md)  
   Core services and things you can buy with $BIS
 * [Development](https://github.com/bismuthfoundation/Awesome-Bismuth/blob/master/Dev.md)  
