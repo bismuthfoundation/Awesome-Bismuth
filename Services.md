@@ -7,7 +7,7 @@ Core services and things you can buy with $BIS.
 * Cryptopia  
   This first exchange $BIS was listed on. The service successfully went through a growth phase and is working flawlessly since.  
   https://www.cryptopia.co.nz
-* BiteBTC
+* BiteBTC https://bitebtc.com/trade/bis_btc
 * Heat nodes DEX
   
 ## Mining pools
