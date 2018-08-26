@@ -44,6 +44,7 @@ https://www.reddit.com/r/cryptobismuth
 Accounts for bis related services
 
 * Cryptopia (Exchange) https://twitter.com/Cryptopia_NZ
+* BiteBTC (Exchange) https://bitebtc.com/trade/bis_btc
 * Dragginator https://twitter.com/iyomisc
 
 
