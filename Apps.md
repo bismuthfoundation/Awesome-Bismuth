@@ -7,13 +7,13 @@ WIP
 ### Chain Explorer
 Explore the Bismuth PoW chain, find blocks, transactions, check balance...
 
-http://bismuth.online/  
-http://bismuth.live:5492/
+http://bismuth.online  
+http://bismuth.live:5492  
 https://heatnodes.org/?page_id=859
 
 ### Bismuth Network Status
 Crude, WIP  
-http://bismuth.live/
+http://bismuth.live
 
 ## Desktop apps
 
