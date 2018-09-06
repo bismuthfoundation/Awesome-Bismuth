@@ -14,4 +14,4 @@ Bounty address: https://hypernodes.bismuth.live/?ac=0ee5609ee98f329b378d6a520afc
 ### Alliage
 Electrum wallet for Bismuth  
 https://github.com/bismuthfoundation/alliage  
-Bounty: 1000 BIS
+Initial Bounty: 1000 BIS (will increase)
