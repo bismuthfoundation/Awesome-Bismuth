@@ -10,6 +10,8 @@ This is a WIP in its early stage. Feel free to propose content!
   Bismuth FAQ resources
 * [Apps](https://github.com/bismuthfoundation/Awesome-Bismuth/blob/master/Apps.md)  
   Bismuth apps and utilities
+* [Bounties](https://github.com/bismuthfoundation/Awesome-Bismuth/blob/master/Bounties.md)  
+  Bismuth development bounties
 * [Distributed Apps](https://github.com/bismuthfoundation/Awesome-Bismuth/blob/master/DApps.md)  
   Bismuth based distributed apps
 * [Articles](https://github.com/bismuthfoundation/Awesome-Bismuth/blob/master/Articles.md)  
