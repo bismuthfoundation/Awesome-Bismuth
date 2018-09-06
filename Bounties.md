@@ -9,7 +9,9 @@ Here Bismuth projects with development bounties are listed. Contributions from e
 ### BISafe
 A safe, Html wallet for Bismuth Cryptocurrency.  
 https://github.com/EggPool/BISafe
+Bounty address: https://hypernodes.bismuth.live/?ac=0ee5609ee98f329b378d6a520afc8dec56092511ddc7ae00e0b790ce&page_id=152
 
 ### Alliage
 Electrum wallet for Bismuth  
 https://github.com/bismuthfoundation/alliage
+Bounty: 1000 BIS
