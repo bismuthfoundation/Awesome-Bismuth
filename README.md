@@ -8,6 +8,8 @@ This is a WIP in its early stage. Feel free to propose content!
 
 * [FAQ](https://github.com/bismuthfoundation/Awesome-Bismuth/blob/master/FAQ_Help.md)  
   Bismuth FAQ resources
+* [Roadmap](https://github.com/bismuthfoundation/Roadmap)
+  Short-, mid- and long-term roadmap of the dev team
 * [Apps](https://github.com/bismuthfoundation/Awesome-Bismuth/blob/master/Apps.md)  
   Bismuth apps and utilities
 * [Bounties](https://github.com/bismuthfoundation/Awesome-Bismuth/blob/master/Bounties.md)  
