@@ -62,4 +62,6 @@ http://www.mic-journal.no/ABS/MIC-2018-3-1.asp
 * What is Bismuth coin?  
   https://www.geekxplore.com/what-is-bismuth-coin.html
 
+* Bismuth Mining Evolution  
+  https://medium.com/@bismuthfoundation/bismuth-mining-evolution-d990ae680a7f
 
