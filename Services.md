@@ -8,6 +8,7 @@ Core services and things you can buy with $BIS.
   This first exchange $BIS was listed on. The service successfully went through a growth phase and is working flawlessly since.  
   https://www.cryptopia.co.nz
 * qTrade https://qtrade.io/market/BIS_BTC
+* TradeSatoshi https://tradesatoshi.com/Exchange/?market=BIS_BTC
 * BiteBTC https://bitebtc.com/trade/bis_btc
 * Heat nodes DEX
   
