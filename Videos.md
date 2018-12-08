@@ -26,3 +26,6 @@
   
 * Updating a Bismuth node on a linux server  
   https://steemit.com/cryptocurrency/@bitsignal/zyn41vu1
+  
+* Using the Pawer-discord-bot  
+  https://www.youtube.com/watch?v=j2GT-LDS-x8
