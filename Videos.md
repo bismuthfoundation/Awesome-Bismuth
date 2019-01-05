@@ -29,3 +29,7 @@
   
 * Using the Pawer-discord-bot  
   https://www.youtube.com/watch?v=j2GT-LDS-x8
+
+* Bismuth Github activity 2018
+  https://www.youtube.com/watch?v=02VGbGV6Rks
+
