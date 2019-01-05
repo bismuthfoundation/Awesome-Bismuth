@@ -10,6 +10,7 @@ Core services and things you can buy with $BIS.
 * qTrade https://qtrade.io/market/BIS_BTC
 * TradeSatoshi https://tradesatoshi.com/Exchange/?market=BIS_BTC
 * BiteBTC https://bitebtc.com/trade/bis_btc
+* Easyrabbit https://easyrabbit.net
 * Heat nodes DEX
   
 ## Mining pools
