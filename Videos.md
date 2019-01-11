@@ -36,3 +36,6 @@
 * Bismuth Github activity 2018
   https://www.youtube.com/watch?v=02VGbGV6Rks
 
+* How to sync your node using the latest Bismuth snapshot
+  https://www.youtube.com/watch?v=RQfBeZTgFZo
+  
