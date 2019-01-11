@@ -29,4 +29,9 @@ Dragginator has its own awesome page: [Dragginator](https://github.com/bismuthfo
 Online poker game.  
 https://pokapoka.biz
 
+### Autogame
+
+Autogame is a deterministic semi-autonomous computer game with RPG elements everyone in possession of Bismuth can participate in. Without a central server, everyone can reproduce game world events based on predefined rules for every match. Changing the rules changes outcomes of matches.
+https://github.com/hclivess/BismuthProjects/blob/master/autogame/about.md
+
 
