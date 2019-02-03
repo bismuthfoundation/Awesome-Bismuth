@@ -15,7 +15,7 @@ https://github.com/EggPool/BismuthEvents
 
 ### Zircodice
 
-A blocchain based luck game where you can win bis.  
+A blockchain based luck game where you can win bis.  
 http://bismuth.live:1212/
 
 ### Dragginator
