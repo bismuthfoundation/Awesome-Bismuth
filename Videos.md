@@ -39,8 +39,11 @@
 * How to sync your node using the latest Bismuth snapshot  
   https://www.youtube.com/watch?v=RQfBeZTgFZo
   
-* How to create/ import a Bismuth address (Tornado Bismuth Wallet)
+* How to create/ import a Bismuth address (Tornado Bismuth Wallet  
   https://www.youtube.com/watch?time_continue=7&v=EzrPu9xbDsU
+  
+ * Tornado Bismuth Wallet - Sending/ Receiving BIS - Crystals  
+   https://www.youtube.com/watch?v=LtGSduoQADo
   
   
   
