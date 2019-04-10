@@ -45,10 +45,9 @@
 * Tornado Bismuth Wallet - Sending/ Receiving BIS - Crystals  
   https://www.youtube.com/watch?v=LtGSduoQADo
   
-* How to upgrade a Bismuth Hypernode . 
+* How to upgrade a Bismuth Hypernode  
   https://youtu.be/3hNaV3jWf_w
-   
-   
+  
   
   
   
