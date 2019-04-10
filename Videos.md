@@ -42,10 +42,13 @@
 * How to create/ import a Bismuth address (Tornado Bismuth Wallet)  
   https://www.youtube.com/watch?time_continue=7&v=EzrPu9xbDsU
   
- * Tornado Bismuth Wallet - Sending/ Receiving BIS - Crystals  
-   https://www.youtube.com/watch?v=LtGSduoQADo
+* Tornado Bismuth Wallet - Sending/ Receiving BIS - Crystals  
+  https://www.youtube.com/watch?v=LtGSduoQADo
   
-  
+* How to upgrade a Bismuth Hypernode
+  https://youtu.be/3hNaV3jWf_w
+   
+   
   
   
   
