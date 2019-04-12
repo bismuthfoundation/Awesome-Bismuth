@@ -48,6 +48,8 @@
 * How to upgrade a Bismuth Hypernode  
   https://youtu.be/3hNaV3jWf_w
   
+* How to update the Bismuth Hypernode Sentinel / (cron5.py / sentinel.py)
+  https://d.tube/#!/v/bitsignal/ode76a8h
   
   
   
