@@ -51,5 +51,8 @@
 * How to update the Bismuth Hypernode Sentinel / (cron5.py / sentinel.py)  
   https://d.tube/#!/v/bitsignal/ode76a8h
   
+* Import legacy wallet into Tornado Bismuth Wallet  
+  https://www.youtube.com/watch?v=zZgt-e1mluw
+  
   
   
