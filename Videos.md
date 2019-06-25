@@ -54,5 +54,15 @@
 * Import legacy wallet into Tornado Bismuth Wallet  
   https://www.youtube.com/watch?v=zZgt-e1mluw
   
+* How to register your dragon to a Cup (dragginator)  
+  https://www.youtube.com/watch?v=Wsbm1wYeX_g
+  
+* How to import encrypted legacy wallet to Tornado Bismuth Wallet 
+  https://www.youtube.com/watch?v=st2KP2qIpE4
+  
+* How to encrypt/ decrypt messages between Bismuth users (Tornado Bismuth Wallet)  
+  https://www.youtube.com/watch?v=jg9IiQisX-I
+  
+  
   
   
