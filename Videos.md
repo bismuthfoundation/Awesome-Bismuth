@@ -62,6 +62,32 @@
   
 * How to encrypt/ decrypt messages between Bismuth users (Tornado Bismuth Wallet)  
   https://www.youtube.com/watch?v=jg9IiQisX-I
+
+* Dragginator Birthday Cup Winners!
+  https://www.youtube.com/watch?v=X6flrvfnscg
+
+* Join the Dragginator Leagues - daily dragon blockchain games
+  https://www.youtube.com/watch?v=WGS4NB9jENg
+
+* Create a Bismuth alias using the Tornado Bismuth Wallet
+  https://www.youtube.com/watch?v=91azxuiT3nA
+
+* Trading BIS @ a decentralized crypto exchange (dex) - x.vite.net
+  https://www.youtube.com/watch?v=dBAFJBAHSWw
+
+* Bismuth Voting using the Tornado Bismuth Crystal
+  https://www.youtube.com/watch?v=aiy4fTuDXy8
+
+* Crypto Bismuth Progress Report 2019-11-19
+  https://www.youtube.com/watch?v=ejbR_PXCo1g
+
+* Bismuth: What are shielded tokens?
+  https://www.youtube.com/watch?v=SHNQHmZZKdo
+
+* Dragginator 2020 New Year Cup
+  https://www.youtube.com/watch?v=wP1tV2jIHSo
+
+
   
   
   
