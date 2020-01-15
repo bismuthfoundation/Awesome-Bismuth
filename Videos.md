@@ -19,20 +19,15 @@
 * Updating a Bismuth node on a linux server  
   https://steemit.com/cryptocurrency/@bitsignal/zyn41vu1
   
-* Bismuth hypernode listed on Masternodec
-  https://www.youtube.com/watch?v=eVN7mXarrfI
+* Bismuth Sidechain :: Hypernode :: [Bismuth hypernode listed on Masternodec](https://www.youtube.com/watch?v=eVN7mXarrfI) :: (Dec 04, 2018) :: [Backup](https://lbry.tv/@bitsignal:a/bismuth-hypernode-listed-on-masternodec:e)  
 
-* Using the Pawer-discord-bot  
-  https://www.youtube.com/watch?v=j2GT-LDS-x8
+* Bismuth Bot :: Pawer :: [Use the Pawer-Bismuth-Bot to create an address, accept tips & airdrops](https://www.youtube.com/watch?v=j2GT-LDS-x8) :: (Dec 07, 2018) :: [Backup](https://lbry.tv/@bitsignal:a/use-the-pawer-bismuth-bot-to-create-an:7)  
 
-* Bismuth Github activity 2018  
-  https://www.youtube.com/watch?v=02VGbGV6Rks
+* Bismuth Stats :: Graphical Animation :: [Bismuth Github Activity 2018](https://www.youtube.com/watch?v=02VGbGV6Rks) :: (Jan 01, 2019) :: [Backup](https://lbry.tv/@bitsignal:a/bismuth-is-evolving:7)  
 
-* How to sync your node using the latest Bismuth snapshot  
-  https://www.youtube.com/watch?v=RQfBeZTgFZo
+* Bismuth Node :: Terminal :: [How to sync your Bismuth node using a snapshot](https://www.youtube.com/watch?v=RQfBeZTgFZo) :: (Jan 10, 2019) :: [Backup](https://lbry.tv/@bitsignal:a/how-to-sync-your-bismuth-node-using-a:4)  
   
-* How to create/ import a Bismuth address (Tornado Bismuth Wallet)  
-  https://www.youtube.com/watch?time_continue=7&v=EzrPu9xbDsU
+* Tornado Bismuth Wallet :: [How to create/ import a Bismuth address](https://www.youtube.com/watch?time_continue=7&v=EzrPu9xbDsU) :: (Feb 04, 2019) :: [Backup](https://lbry.tv/@bitsignal:a/how-to-create-a-public-address-using-the:b)  
   
 * Tornado Bismuth Wallet - Sending/ Receiving BIS - Crystals  
   https://www.youtube.com/watch?v=LtGSduoQADo
