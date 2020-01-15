@@ -1,28 +1,20 @@
 # Videos about Bismuth platform and Crypto currency
 
-* Crypto Zombie - Talking about BIS  
-  https://www.youtube.com/watch?v=2o8pO9s9DOY
+* Bismuth Analysis :: [Crypto Zombie - Talking about Bismuth](https://youtu.be/2o8pO9s9DOY?t=1118)  
   
-* Rare and Exotic Coins Ep. 7 Bismuth (BIS)  
-  https://www.youtube.com/watch?v=YRGnuVaxU1Q
+* Bismuth Analysis :: [Rare and Exotic Coins Ep. 7 Bismuth (BIS)](https://www.youtube.com/watch?v=YRGnuVaxU1Q) :: (Jan 17, 2018)  
 
-* How to sell cryptocurrency using the Openbazaar market app  
-  https://steemit.com/bismuth/@bitsignal/how-to-sell-cryptocurrency-using-the-openbazaar-market-app
+* Market :: [How to buy/sell Bismuth at Openbazaar](https://www.youtube.com/watch?v=osVE05jrdXg) :: (Aug 3, 2018) :: [Backup](https://lbry.tv/@bitsignal:a/how-to-sell-cryptocurrency-using-the:f)  
   
-* How to create a Bismuth address  
-  https://steemit.com/cryptocurrency/@bitsignal/how-to-create-a-bismuth-address
+* Bismuth Wallet (legacy) :: [How to create a Bismuth address](https://www.youtube.com/watch?v=-c1FnbnFyOs) :: (July 4, 2018) :: [Backup](https://lbry.tv/@bitsignal:a/how-to-create-a-bismuth-address:4)  
 
-* Use your own Bismuth wallet theme  
-  https://steemit.com/cryptocurrency/@bitsignal/use-your-own-bismuth-wallet-theme
+* Bismuth Wallet (legacy) :: [Use your custom Bismuth Wallet theme](https://www.youtube.com/watch?v=EIkWo6GjCj4) :: (May 18, 2018) :: [Backup](https://lbry.tv/@bitsignal:a/bismuth-wallet-themes:7)  
   
-* Creating an alias for the Bismuth public address  
-  https://steemit.com/cryptocurrency/@bitsignal/creating-an-alias-for-the-bismuth-public-address
+* Bismuth Wallet (legacy) :: Alias :: [Create a Bismuth alias](https://www.youtube.com/watch?v=Jb8bcGG5N5k) :: (May 11, 2018) :: [Backup](https://lbry.tv/@bitsignal:a/creating-a-bismuth-alias:6)  
   
-* How to create a bismuth cryptocurrency token transaction  
-  https://steemit.com/cryptocurrency/@bitsignal/how-to-create-a-bismuth-cryptocurrency-token-transaction
-  
-* Create a Bismuth cold storage address  
-  https://steemit.com/cryptocurrency/@bitsignal/create-a-bismuth-cold-storage-address
+* Bismuth Wallet (legacy) :: Token :: [Create a token transaction](https://www.youtube.com/watch?v=DSi0NJD4fQg) :: (May 10, 2018) :: [Backup](https://lbry.tv/@bitsignal:a/creating-a-bismuth-cryptocurrency-token:7)  
+
+* Paper Wallet :: BISafe :: [How to create a Bismuth cold storage address](https://youtu.be/HB4HREjKJJc) :: (Feb 19, 2018) :: [Backup](https://lbry.tv/@bitsignal:a/bismuth-cold-storage-wallet:7)  
   
 * Updating a Bismuth node on a linux server  
   https://steemit.com/cryptocurrency/@bitsignal/zyn41vu1
