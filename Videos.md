@@ -16,8 +16,7 @@
 
 * Paper Wallet :: BISafe :: [How to create a Bismuth cold storage address](https://youtu.be/HB4HREjKJJc) :: (Feb 19, 2018) :: [Backup](https://lbry.tv/@bitsignal:a/bismuth-cold-storage-wallet:7)  
   
-* Updating a Bismuth node on a linux server  
-  https://steemit.com/cryptocurrency/@bitsignal/zyn41vu1
+* Bismuth Node :: [Updating a Bismuth Node - Terminal](https://youtu.be/wXsBXK5Yo2s) :: (Jan 25, 2018)  
   
 * Bismuth Sidechain :: Hypernode :: [Bismuth hypernode listed on Masternodec](https://www.youtube.com/watch?v=eVN7mXarrfI) :: (Dec 04, 2018) :: [Backup](https://lbry.tv/@bitsignal:a/bismuth-hypernode-listed-on-masternodec:e)  
 
@@ -27,49 +26,34 @@
 
 * Bismuth Node :: Terminal :: [How to sync your Bismuth node using a snapshot](https://www.youtube.com/watch?v=RQfBeZTgFZo) :: (Jan 10, 2019) :: [Backup](https://lbry.tv/@bitsignal:a/how-to-sync-your-bismuth-node-using-a:4)  
   
-* Tornado Bismuth Wallet :: [How to create/ import a Bismuth address](https://www.youtube.com/watch?time_continue=7&v=EzrPu9xbDsU) :: (Feb 04, 2019) :: [Backup](https://lbry.tv/@bitsignal:a/how-to-create-a-public-address-using-the:b)  
+* Tornado Bismuth Wallet :: [How to create/ import a Bismuth address](https://youtu.be/EzrPu9xbDsU) :: (Feb 04, 2019) :: [Backup](https://lbry.tv/@bitsignal:a/how-to-create-a-public-address-using-the:b)  
   
-* Tornado Bismuth Wallet - Sending/ Receiving BIS - Crystals  
-  https://www.youtube.com/watch?v=LtGSduoQADo
+* Tornado Bismuth Wallet :: [Sending/ Receiving Bismuth - Crystals](https://www.youtube.com/watch?v=LtGSduoQADo) :: (Feb 18, 2019) :: [Backup](https://lbry.tv/@bitsignal:a/tornado-bismuth-wallet-sending-receiving:b)  
   
-* How to upgrade a Bismuth Hypernode  
-  https://youtu.be/3hNaV3jWf_w
+* Bismuth Sidechain :: Hypernode :: [How to upgrade a Bismuth Hypernode](https://youtu.be/3hNaV3jWf_w) :: (Apr 10, 2019) :: [Backup](https://lbry.tv/@bitsignal:a/how-to-upgrade-a-bismuth-hypernode:1)  
   
-* How to update the Bismuth Hypernode Sentinel / (cron5.py / sentinel.py)  
-  https://d.tube/#!/v/bitsignal/ode76a8h
+* Bismuth Sidechain :: Hypernode :: [Update the Bismuth Hypernode Sentinel](https://youtu.be/J5CMRhWpiNE) :: (Apr 11, 2019)  
   
-* Import legacy wallet into Tornado Bismuth Wallet  
-  https://www.youtube.com/watch?v=zZgt-e1mluw
+* Tornado Bismuth Wallet :: [Tornado Bismuth Wallet Import from Legacy Wallet](https://youtu.be/zZgt-e1mluw) :: (May 11, 2019) :: [Backup](https://lbry.tv/@bitsignal:a/tornado-bismuth-wallet-import-from:b)  
   
-* How to register your dragon to a Cup (dragginator)  
-  https://www.youtube.com/watch?v=Wsbm1wYeX_g
+* Bismuth App :: Crystal :: Dragginator :: [Join the Dragginator's Birthday Soccer Cup](https://youtu.be/Wsbm1wYeX_g) :: (Jun 17, 2019) :: [Backup](https://lbry.tv/@bitsignal:a/join-the-dragginator-s-birthday-soccer:b)  
   
-* How to import encrypted legacy wallet to Tornado Bismuth Wallet  
-  https://www.youtube.com/watch?v=st2KP2qIpE4
+* Bismuth Tornado Wallet :: [Import encrypted legacy wallet to Tornado Bismuth Wallet](https://youtu.be/st2KP2qIpE4) :: (Jun 18, 2019) :: [Backup](https://lbry.tv/@bitsignal:a/import-encrypted-legacy-wallet-to:6)  
   
-* How to encrypt/ decrypt messages between Bismuth users (Tornado Bismuth Wallet)  
-  https://www.youtube.com/watch?v=jg9IiQisX-I
+* Bismuth Tornado Wallet :: [How to encrypt/ decrypt messages between Bismuth users](https://youtu.be/jg9IiQisX-I) :: (Jun 19, 2019) :: [Backup](https://lbry.tv/@bitsignal:a/how-to-encrypt-decrypt-messages-between:3)  
 
-* Dragginator Birthday Cup Winners!  
-  https://www.youtube.com/watch?v=X6flrvfnscg
+* Bismuth App :: Crystal :: Dragginator :: [Dragginator Birthday Cup Winners!](https://youtu.be/X6flrvfnscg) :: (Jul 02, 2019) :: [Backup](https://lbry.tv/@bitsignal:a/dragginator-birthday-cup-winners:3)  
 
-* Join the Dragginator Leagues - daily dragon blockchain games  
-  https://www.youtube.com/watch?v=WGS4NB9jENg
+* Bismuth App :: Crystal :: Dragginator :: [Join the Dragginator Leagues - daily dragon blockchain games](https://youtu.be/WGS4NB9jENg) :: (Jul 24, 2019) :: [Backup](https://lbry.tv/@bitsignal:a/join-the-dragginator-leagues-daily:4)  
 
-* Create a Bismuth alias using the Tornado Bismuth Wallet  
-  https://www.youtube.com/watch?v=91azxuiT3nA
+* Tornado Bismuth Wallet ::  Alias :: [Create a Bismuth alias using the Tornado Bismuth Wallet](https://youtu.be/91azxuiT3nA) :: (Aug 12, 2019) :: [Backup](https://lbry.tv/@bitsignal:a/create-a-bismuth-alias-using-the-tornado:8)  
 
-* Trading BIS @ a decentralized crypto exchange (dex) - x.vite.net  
-  https://www.youtube.com/watch?v=dBAFJBAHSWw
+* Market :: ViteX ::  [Trading BIS @ a decentralized crypto exchange (dex) - x.vite.net](https://youtu.be/dBAFJBAHSWw) :: (Sep 12, 2019) :: [Backup](https://lbry.tv/@bitsignal:a/trading-bis-a-decentralized-crypto:8)  
 
-* Bismuth Voting using the Tornado Bismuth Crystal  
-  https://www.youtube.com/watch?v=aiy4fTuDXy8
+* Bismuth App :: Crystal :: Voting ::  [Bismuth Voting using the Tornado Bismuth Crystal](https://youtu.be/aiy4fTuDXy8) :: (Oct 03, 2019) :: [Backup](https://lbry.tv/@bitsignal:a/bismuth-voting-using-the-tornado-bismuth:e)  
 
-* Crypto Bismuth Progress Report 2019-11-19  
-  https://www.youtube.com/watch?v=ejbR_PXCo1g
+* Bismuth Progress Report :: [Crypto Bismuth Progress Report 2019-11-19](https://youtu.be/ejbR_PXCo1g) :: (Dec 19, 2019) :: [Backup](https://lbry.tv/@bitsignal:a/crypto-bismuth-progress-report-2019-11:9)  
 
-* Bismuth: What are shielded tokens?  
-  https://www.youtube.com/watch?v=SHNQHmZZKdo
+* Bismuth App :: Shielded Token :: [Bismuth: What are shielded tokens?](https://youtu.be/SHNQHmZZKdo) :: (Dec 22, 2019) :: [Backup](https://lbry.tv/@bitsignal:a/bismuth-what-are-shielded-tokens:7)  
 
-* Dragginator 2020 New Year Cup  
-  https://www.youtube.com/watch?v=wP1tV2jIHSo
+* Bismuth App :: Crystal :: Dragginator :: [Dragginator 2020 New Year Cup](https://youtu.be/wP1tV2jIHSo) :: (Jan 03, 2020) :: [Backup](https://lbry.tv/@bitsignal:a/dragginator-2020-new-year-cup:4)
