@@ -6,6 +6,9 @@
   
 * Bismuth Analysis :: [Rare and Exotic Coins Ep. 7 Bismuth (BIS)](https://www.youtube.com/watch?v=YRGnuVaxU1Q) :: (Jan 17, 2018)  
 
+* Bismuth Analysis :: [Bismuth - The python blockchain construction set](https://youtu.be/59NUbi1SgQs) :: (Jan 27, 2020) ::  [Backup](https://lbry.tv/@bitsignal:a/Bismuth:e)  
+
+
 ### Market
 
 * Market :: [How to buy/sell Bismuth at Openbazaar](https://www.youtube.com/watch?v=osVE05jrdXg) :: (Aug 3, 2018) :: [Backup](https://lbry.tv/@bitsignal:a/how-to-sell-cryptocurrency-using-the:f)  
