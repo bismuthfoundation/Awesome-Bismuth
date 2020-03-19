@@ -78,6 +78,10 @@
 
 * Bismuth App :: Crystal :: Dragginator :: [Dragginator 2020 New Year Cup](https://youtu.be/wP1tV2jIHSo) :: (Jan 03, 2020) :: [Backup](https://lbry.tv/@bitsignal:a/dragginator-2020-new-year-cup:4)  
 
+
+### Hack-with-BIS
+* Terminal :: Wallet :: [How to send a transaction from your code](https://www.youtube.com/watch?v=Ls2bFK71VaI) :: (Mar 19, 2020) :: [Backup](https://lbry.tv/@bitsignal:a/bismuth-send-tx-from-code:c)
+
 ### Bismuth App - Voting 
 
 * Bismuth App :: Crystal :: Voting ::  [Bismuth Voting using the Tornado Bismuth Crystal](https://youtu.be/aiy4fTuDXy8) :: (Oct 03, 2019) :: [Backup](https://lbry.tv/@bitsignal:a/bismuth-voting-using-the-tornado-bismuth:e)  
