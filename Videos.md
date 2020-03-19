@@ -80,7 +80,7 @@
 
 
 ### Hack-with-BIS
-* Terminal :: Wallet :: [How to send a transaction from your code](https://www.youtube.com/watch?v=Ls2bFK71VaI) :: (Mar 19, 2020) :: [Backup](https://lbry.tv/@bitsignal:a/bismuth-send-tx-from-code:c)
+* Terminal :: Wallet :: Code :: [How to send a transaction from your code](https://www.youtube.com/watch?v=Ls2bFK71VaI) :: (Mar 19, 2020) :: [Backup](https://lbry.tv/@bitsignal:a/bismuth-send-tx-from-code:c)
 
 ### Bismuth App - Voting 
 
