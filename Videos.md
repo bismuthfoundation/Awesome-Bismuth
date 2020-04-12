@@ -25,6 +25,8 @@
   
 * Bismuth Wallet (legacy) :: Token :: [Create a token transaction](https://www.youtube.com/watch?v=DSi0NJD4fQg) :: (May 10, 2018) :: [Backup](https://lbry.tv/@bitsignal:a/creating-a-bismuth-cryptocurrency-token:7)  
 
+* Bismuth TK-Wallet (legacy) :: [How to load a wallet.json file into the Bismuth TK-Wallet](https://www.youtube.com/watch?v=DQLPhXin8TA) :: (April 11, 2020) :: [Backup](https://lbry.tv/@bitsignal:a/2020-04-11-Bismuth-tk-wallet2:4)  
+
 ### Bismuth Paper Wallet
 
 * Paper Wallet :: BISafe :: [How to create a Bismuth cold storage address](https://youtu.be/HB4HREjKJJc) :: (Feb 19, 2018) :: [Backup](https://lbry.tv/@bitsignal:a/bismuth-cold-storage-wallet:7)  
