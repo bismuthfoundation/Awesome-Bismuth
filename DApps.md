@@ -6,6 +6,10 @@ WIP
 
 ## Utilities
 
+### Tesla Battery Condition Monitoring 
+A solution for battery condition monitoring of Tesla EVs has been implemented by using the open source Bismuth public blockchain. Specifically, a Tesla plug-in (also called “crystal” in Bismuth terminology) has been developed for use together with the open source TornadoWallet.
+[Battery Monitoring Article](https://hypernodes.bismuth.live/?p=1318), [Source Tesla Crystal](https://github.com/bismuthfoundation/TornadoWallet)
+
 ### Bismuth Events
 
 Event Sourcing proof of concept for Bismuth, with sample Dapps, like a twitter like dapp.  
