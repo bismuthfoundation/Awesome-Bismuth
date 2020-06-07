@@ -30,6 +30,15 @@ http://www.mic-journal.no/ABS/MIC-2018-3-1.asp
 
 ## Official content
 
+* Tesla Battery Monitoring on Blockchain (MAY 25, 2020)
+  A solution for battery condition monitoring of Tesla EVs has been implemented by using the open source Bismuth public blockchain. [Read on](https://hypernodes.bismuth.live/?p=1318)
+
+* Android Battery Monitoring (MAY 9, 2020)
+  A new decentralized distributed app (dApp) has been developed with the aim of monitoring battery parameters, such as temperature, charging current, battery level and health status. [Read on](https://hypernodes.bismuth.live/?p=1696)
+
+* Decentralized Condition Monitoring (APRIL 30, 2020)
+  In this article it will be demonstrated how a new meta protocol can be used in the development of a solution for decentralized condition monitoring. [Read on](https://hypernodes.bismuth.live/?p=1527)
+
 * "Semantic Interpretation": Solution to the codebase consensus conflict in context of the Bismuth Blockchain  
   Jan Kučera, July 19 2018.  
   https://bismuth.cz/semantic.pdf
