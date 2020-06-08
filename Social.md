@@ -5,7 +5,9 @@ WIP
 ## Discord
 
 This is the Bismuth main source of chat, news and support  
-https://discord.gg/mDxgJc5
+https://discord.gg/mDxgJc5  
+https://discord.bismuth.cz  
+https://discord.bismuth.live  
 
 ## Bitcointalk
 
