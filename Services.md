@@ -30,8 +30,10 @@ WIP
 ## Hypernodes
 
 * [Hyper Bisafe](https://hyper.bisafe.net/)  
-  Shared Hypernode Service
-
+  Shared Hypernode Service  
+* [MNSF](https://docs.google.com/spreadsheets/d/131FFPsAubZLvnMWZoisvg1oBOUu-IYaouj270WfbCpQ/edit?usp=drivesdk)  
+  Shared Hypernode Service  
+  
 ## Buy with $BIS
 
 * Dragginator  
