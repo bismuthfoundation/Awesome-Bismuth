@@ -4,13 +4,14 @@ Core services and things you can buy with $BIS.
 
 ## Exchanges
 
-* Cryptopia  
-  This first exchange $BIS was listed on. The service successfully went through a growth phase and is working flawlessly since.  
-  https://www.cryptopia.co.nz
-* qTrade https://qtrade.io/market/BIS_BTC
-* TradeSatoshi https://tradesatoshi.com/Exchange/?market=BIS_BTC
-* BiteBTC https://bitebtc.com/trade/bis_btc
-* Easyrabbit https://easyrabbit.net
+* [qTrade](https://qtrade.io/market/BIS_BTC)  
+* [Graviex](https://graviex.net/markets/bisbtc)  
+* [Hubi](https://www.hubi.com/#/exchange/bis_btc)  
+* [Vinex](https://vinex.network/market/BTC_BIS)  
+* [Finexbox](https://www.finexbox.com/)  
+* [Unnamed](https://www.unnamed.exchange/Exchange/Basic?market=BIS_BTC)  
+* [Cryptopia](https://www.cryptopia.co.nz) (liquidation process, hacked Jan. 2019)  
+  This first exchange $BIS was listed on.
 * Heat nodes DEX
   
 ## Mining pools
