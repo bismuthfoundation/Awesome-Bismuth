@@ -29,7 +29,8 @@ WIP
 
 ## Hypernodes
 
-WIP
+* [Hyper Bisafe](https://hyper.bisafe.net/)  
+  Shared Hypernode Service
 
 ## Buy with $BIS
 
