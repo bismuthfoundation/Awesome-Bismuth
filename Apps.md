@@ -4,7 +4,7 @@ WIP
 
 ## Web apps
 
-### Chain Explorer
+### Bismuth blockchain explorer
 Explore the Bismuth PoW chain, find blocks, transactions, check balance...
 
 http://bismuth.online  
@@ -40,12 +40,18 @@ https://github.com/EggPool/BISafe
 An open source reference Bismuth pool implementation.  
 https://github.com/EggPool/Optipoolware
 
-### Chain Explorer source code
-Web Tools for the Bismuth Cryptocurrency.  
+### Bismuth blockchain explorer source code
+Bismuth Explorer  
+https://github.com/maccaspacca/BismuthExplorer  
+
+Web Tools for the Bismuth Cryptocurrency (replaced by Bismuth Explorer)  
 https://github.com/maccaspacca/BismuthToolsWeb
 
 ### BismuthRPC
 A Json-RPC Server, bitcoin alike, for Bismuth Crypto Currency.  
-https://github.com/EggPool/BismuthRPC
+https://github.com/bismuthfoundation/BismuthRPC
 
 ## Mobile apps
+
+3rd party multi mobile wallet for Android and iOS  
+https://www.chainzilla.io/chameleonpay.html
