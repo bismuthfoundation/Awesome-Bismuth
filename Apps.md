@@ -20,7 +20,7 @@ http://bismuth.live
 ## Tornado Wallet
 
 Official wallet releases for Win, Linux and Mac.  
-Supports Windows, Mac, Linux.  
+Wallet supports Bismuth Crystals.  
 https://github.com/bismuthfoundation/TornadoWallet/releases
 
 ### Legacy TK based Wallet
