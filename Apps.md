@@ -17,10 +17,16 @@ http://bismuth.live
 
 ## Desktop apps
 
-### Official wallet
+## Tornado Wallet
+
 Official wallet releases for Win, Linux and Mac.  
+Supports Windows, Mac, Linux.  
+https://github.com/bismuthfoundation/TornadoWallet/releases
+
+### Legacy TK based Wallet
+  
 Comes as source code, as well as Windows auto installer.  
-https://github.com/hclivess/Bismuth/releases
+https://github.com/bismuthfoundation/tk-wallet/releases
 
 ### BISafe
 WIP, proof of concept.  
