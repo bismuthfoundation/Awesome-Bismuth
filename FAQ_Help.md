@@ -1,7 +1,7 @@
 # FAQ and Help
 
 Doc, faq and help may be spread over many places.  
-We try to link to thhem all from here
+We try to link to them all from here
 
 ## General FAQ and Help
 
@@ -10,16 +10,28 @@ We try to link to thhem all from here
   
 Check also:
   
-* [Social](https://github.com/bismuthfoundation/Awesome-Bismuth/blob/master/Social.md)  
-  Connect with BIS, get help
+* Social - Connect with BIS users, get help  
+  https://github.com/bismuthfoundation/Awesome-Bismuth/blob/master/Social.md
   
-* [Videos](https://github.com/bismuthfoundation/Awesome-Bismuth/blob/master/Videos.md)  
+* Videos - Various tutorials  
+  https://github.com/bismuthfoundation/Awesome-Bismuth/blob/master/Videos.md
 
 ## Hyper Nodes
 
-* #Hypernodes channel on Discord is "The" place: https://discord.gg/mDxgJc5
+* Hypernodes Discord Channel is "The" place  
+  https://discord.gg/mDxgJc5
 
-* https://www.slideshare.net/EggdraSyl/bismuth-hypernodes-setup-process
+* Hypernode Slideshare Stats  
+  https://www.slideshare.net/EggdraSyl/bismuth-hypernodes-stats-revealed
+
+* Hypernode Slideshare Setup Process  
+  https://www.slideshare.net/EggdraSyl/bismuth-hypernodes-setup-process
+
+* Hypernode auto install script  
+  https://github.com/bismuthfoundation/Bismuth-FAQ/blob/master/Hypernodes/00-Auto-Install-Script.md
+
+* Hypernode Upgrade to 0.0.97  
+  https://github.com/bismuthfoundation/Bismuth-FAQ/blob/master/Hypernodes/Hypernodes_Upgrade_0-0-97.md
 
 
 ## Building on top of Bismuth
