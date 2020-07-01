@@ -82,7 +82,9 @@
 
 
 ### Hack-with-BIS
-* Terminal :: Wallet :: Code :: [How to send a transaction from your code](https://www.youtube.com/watch?v=Ls2bFK71VaI) :: (Mar 19, 2020) :: [Backup](https://lbry.tv/@bitsignal:a/bismuth-send-tx-from-code:c)
+
+* Terminal :: Wallet :: Code :: [How to send a transaction from your code](https://www.youtube.com/watch?v=Ls2bFK71VaI) :: (Mar 19, 2020) :: [Backup](https://lbry.tv/@bitsignal:a/bismuth-send-tx-from-code:c)  
+* 03-WebAPI-PHP-Badge :: [Create your own Bismuth balance badge!](https://www.youtube.com/watch?v=jYP12BOaTzI) :: (Jul 01, 2020) :: [Backup](https://lbry.tv/@bitsignal:a/bismuth-badge-2020-07-01-15.25.36:e)
 
 ### Bismuth App - Voting 
 
