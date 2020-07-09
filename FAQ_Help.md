@@ -48,4 +48,4 @@ This will get a dedicated section later on, see also the DEV section.
   https://github.com/EggPool/BismuthEvents
   
 * Check the nogui scripts to automate transaction sending  
-  ex: https://github.com/hclivess/Bismuth/blob/master/send_nogui.py
+  ex: https://github.com/bismuthfoundation/Bismuth/blob/master/send_nogui_noconf.py
