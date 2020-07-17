@@ -8,7 +8,8 @@ WIP
 Explore the Bismuth PoW chain, find blocks, transactions, check balance...
 
 http://bismuth.online  
-http://bismuth.live:5492  
+https://hypernodes.bismuth.live  
+https://bismuth.im  
 https://heatnodes.org/?page_id=859
 
 ### Bismuth token explorer  
