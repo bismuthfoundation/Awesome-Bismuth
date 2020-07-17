@@ -11,6 +11,10 @@ http://bismuth.online
 http://bismuth.live:5492  
 https://heatnodes.org/?page_id=859
 
+### Bismuth token explorer  
+https://bismuth.today  
+https://github.com/iyomisc/bismuth_tokens  
+
 ### Bismuth Network Status
 Crude, WIP  
 http://bismuth.live
