@@ -68,7 +68,7 @@
   
 * Tornado Bismuth Wallet :: [How to encrypt/ decrypt messages between Bismuth users](https://youtu.be/jg9IiQisX-I) :: (Jun 19, 2019) :: [Backup](https://lbry.tv/@bitsignal:a/how-to-encrypt-decrypt-messages-between:3)  
 
-* Tornado Bismuth Wallet ::  Alias :: [Create a Bismuth alias using the Tornado Bismuth Wallet](https://youtu.be/mZfsWmK_m7I) :: (Aug 12, 2019) :: [Backup](https://lbry.tv/@bitsignal:a/Bismuth-Tokens:3)  
+* Tornado Bismuth Wallet ::  Alias :: [Create a Bismuth alias using the Tornado Bismuth Wallet](https://youtu.be/mZfsWmK_m7I) :: (Jul 20, 2020) :: [Backup](https://lbry.tv/@bitsignal:a/Bismuth-Tokens:3)  
 
 * Tornado Bismuth Wallet ::  Tokens :: [How to issue and send Bismuth Tokens](https://youtu.be/91azxuiT3nA) :: (Aug 12, 2019) :: [Backup](https://lbry.tv/@bitsignal:a/create-a-bismuth-alias-using-the-tornado:8) 
 
