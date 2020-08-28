@@ -72,6 +72,8 @@
 
 * Tornado Bismuth Wallet ::  Tokens :: [How to issue and send Bismuth Tokens](https://youtu.be/mZfsWmK_m7I) :: (Jul 20, 2020) :: [Backup](https://lbry.tv/@bitsignal:a/Bismuth-Tokens:3)  
 
+* Tornado Bismuth Wallet ::  Tokens :: [Bismuthtokens Crystal - Manage Bismuth based Tokens](https://youtu.be/ulgSleftzCE) :: (Fri 28, 2020) :: [Backup](https://lbry.tv/@bitsignal:a/Manage-your-Bismuth-based-Tokens-from-within-the-Tornado-Wallet:a)  
+
 ### Bismuth App - Dragginator
 
 * Bismuth App :: Crystal :: Dragginator :: [Join the Dragginator's Birthday Soccer Cup](https://youtu.be/Wsbm1wYeX_g) :: (Jun 17, 2019) :: [Backup](https://lbry.tv/@bitsignal:a/join-the-dragginator-s-birthday-soccer:b)  
