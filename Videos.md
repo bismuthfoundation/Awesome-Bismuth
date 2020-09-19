@@ -48,6 +48,8 @@
 
 * Bismuth Bot :: Pawer :: [Use the Pawer-Bismuth-Bot to create an address, accept tips & airdrops](https://www.youtube.com/watch?v=j2GT-LDS-x8) :: (Dec 07, 2018) :: [Backup](https://lbry.tv/@bitsignal:a/use-the-pawer-bismuth-bot-to-create-an:7)  
 
+* Bismuth Bot :: Pawer :: [The Bismuth Pawer Bot supports BISURL & OPERATION](https://youtu.be/ICGtzxTFjDY) :: (Sep 19, 2020) :: [Backup](https://lbry.tv/@bitsignal:a/bismuth-pawer-bot:4  
+
 ### Bismuth Stats
 
 * Bismuth Stats :: Graphical Animation :: [Bismuth Github Activity 2018](https://www.youtube.com/watch?v=02VGbGV6Rks) :: (Jan 01, 2019) :: [Backup](https://lbry.tv/@bitsignal:a/bismuth-is-evolving:7)  
