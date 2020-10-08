@@ -50,6 +50,8 @@
 
 * Bismuth Bot :: Pawer :: [The Bismuth Pawer Bot supports BISURL & OPERATION](https://youtu.be/ICGtzxTFjDY) :: (Sep 19, 2020) :: [Backup](https://lbry.tv/@bitsignal:a/bismuth-pawer-bot:4)  
 
+* Bismuth Bot :: Pawer :: [The Bismuth Pawer Bot supports Token commands](https://youtu.be/BYZFjTskhJw) :: (Oct 08, 2020) :: [Backup](https://open.lbry.com/@bitsignal:a/Bismuth---Discord-Pawer-Bot-Token-commands-added:e?r=Cs8xYuMLLM6cpLkssEHZ4mSUX8Py3S4D)  
+
 ### Bismuth Stats
 
 * Bismuth Stats :: Graphical Animation :: [Bismuth Github Activity 2018](https://www.youtube.com/watch?v=02VGbGV6Rks) :: (Jan 01, 2019) :: [Backup](https://lbry.tv/@bitsignal:a/bismuth-is-evolving:7)  
