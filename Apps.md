@@ -23,15 +23,17 @@ http://bismuth.live
 ## Desktop apps
 
 ## Tornado Wallet
-
 Official wallet releases for Win, Linux and Mac.  
 Wallet supports Bismuth Crystals.  
 https://github.com/bismuthfoundation/TornadoWallet/releases
 
 ### Legacy TK based Wallet
-  
 Comes as source code, as well as Windows auto installer.  
 https://github.com/bismuthfoundation/tk-wallet/releases
+
+### Bismuth HD Paper Wallet
+BIS Paper (Github): https://github.com/AngainorDev/BIS-Paper  
+BIS Paper (Online): https://angainordev.github.io/BIS-Paper/js/dist/paper.html
 
 ### BISafe
 WIP, proof of concept.  
@@ -58,5 +60,6 @@ https://github.com/bismuthfoundation/BismuthRPC
 
 ## Mobile apps
 
-3rd party multi mobile wallet for Android and iOS  
+Discontinued (do not use):  
+Chameleon Pay ([Discontinuation Announcement](https://medium.com/chainzilla/announcement-chameleon-being-open-sourced-f507e55060fb)) - Android/iOS  (3rd party multi mobile wallet)  
 https://www.chainzilla.io/chameleonpay.html
