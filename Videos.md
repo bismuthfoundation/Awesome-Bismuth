@@ -8,6 +8,8 @@
 
 * Bismuth Analysis :: [Bismuth - The python blockchain construction set](https://youtu.be/59NUbi1SgQs) :: (Jan 27, 2020) ::  [Backup](https://lbry.tv/@bitsignal:a/Bismuth:e)  
 
+* Bismuth World Map :: [Bismuth - Interactive Hypernode World Map](https://youtu.be/wD8i4lr4J2c) :: (Feb 09, 2021) ::  [Backup](https://lbry.tv/@bitsignal:a/bis-hypernode-world-map:5)  
+
 
 ### Market
 
