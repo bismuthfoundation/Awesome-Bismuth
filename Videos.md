@@ -90,6 +90,8 @@
 
 * Bismuth App :: Crystal :: Dragginator :: [Dragginator 2020 New Year Cup](https://youtu.be/wP1tV2jIHSo) :: (Jan 03, 2020) :: [Backup](https://lbry.tv/@bitsignal:a/dragginator-2020-new-year-cup:4)  
 
+* Bismuth App :: Crystal :: Dragginator :: [Dragginator NFT Eggdrop](https://youtu.be/tNB90bMfjGw) :: (Mar 13, 2021) :: [Backup](https://open.lbry.com/@bitsignal:a/nft:a?r=7fkzC4ku6tVYZ3b5MWZSXPciu8EX3aCy)  
+
 
 ### Hack-with-BIS
 
