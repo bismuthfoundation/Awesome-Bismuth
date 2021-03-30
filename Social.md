@@ -45,10 +45,18 @@ https://www.reddit.com/r/cryptobismuth
 ### Bis related
 Accounts for bis related services
 
-* Cryptopia (Exchange) https://twitter.com/Cryptopia_NZ
-* BiteBTC (Exchange) https://bitebtc.com/trade/bis_btc
-* Coinmarketcap https://coinmarketcap.com/currencies/bismuth
+* qTrade (Exchange) https://twitter.com/qtradeio
+* Graviex (Exchange) https://twitter.com/graviex_net
+* ViteX (Exchange) https://twitter.com/vitexexchange
+* Unnamed Exchange https://twitter.com/exchangeunnamed
+* Cryptopia (Exchange liquidation) https://twitter.com/Cryptopia_NZ
 * Dragginator https://twitter.com/iyomisc
+
+### Market info
+
+* Coinmarketcap https://coinmarketcap.com/currencies/bismuth
+* Coingecko https://www.coingecko.com/en/coins/bismuth
+* Coinpaprika https://coinpaprika.com/coin/bis-bismuth
 
 
 ### Bis supporters
