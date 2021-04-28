@@ -78,7 +78,7 @@
 
 * Tornado Bismuth Wallet ::  Tokens :: [How to issue and send Bismuth Tokens](https://youtu.be/mZfsWmK_m7I) :: (Jul 20, 2020) :: [Backup](https://lbry.tv/@bitsignal:a/Bismuth-Tokens:3)  
 
-* Tornado Bismuth Wallet ::  Tokens :: [Bismuthtokens Crystal - Manage Bismuth based Tokens](https://youtu.be/ulgSleftzCE) :: (Fri 28, 2020) :: [Backup](https://lbry.tv/@bitsignal:a/Manage-your-Bismuth-based-Tokens-from-within-the-Tornado-Wallet:a)  
+* Tornado Bismuth Wallet ::  Tokens :: [Bismuthtokens Crystal - Manage Bismuth based Tokens](https://youtu.be/ulgSleftzCE) :: (Aug 28, 2020) :: [Backup](https://lbry.tv/@bitsignal:a/Manage-your-Bismuth-based-Tokens-from-within-the-Tornado-Wallet:a)  
 
 * Tornado Bismuth Wallet ::  Crystal :: [Ethbridge Crystal - ETH / BIS Bridge Crystal](https://youtu.be/6CdenJJ28N4) :: (Apr 26, 2021) :: [Backup](https://odysee.com/@bitsignal:a/ethbridge:6) 
 
