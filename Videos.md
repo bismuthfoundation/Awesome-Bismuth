@@ -80,6 +80,8 @@
 
 * Tornado Bismuth Wallet ::  Tokens :: [Bismuthtokens Crystal - Manage Bismuth based Tokens](https://youtu.be/ulgSleftzCE) :: (Fri 28, 2020) :: [Backup](https://lbry.tv/@bitsignal:a/Manage-your-Bismuth-based-Tokens-from-within-the-Tornado-Wallet:a)  
 
+* Tornado Bismuth Wallet ::  Crystal :: [Ethbridge Crystal - ETH / BIS Bridge Crystal](https://youtu.be/6CdenJJ28N4) :: (Apr 26, 2021) :: [Backup](https://odysee.com/@bitsignal:a/ethbridge:6) 
+
 ### Bismuth App - Dragginator
 
 * Bismuth App :: Crystal :: Dragginator :: [Join the Dragginator's Birthday Soccer Cup](https://youtu.be/Wsbm1wYeX_g) :: (Jun 17, 2019) :: [Backup](https://lbry.tv/@bitsignal:a/join-the-dragginator-s-birthday-soccer:b)  
