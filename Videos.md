@@ -60,7 +60,9 @@
 
 * Bismuth Stats :: [Crypto Bismuth Progress Report 2019-11-19](https://youtu.be/ejbR_PXCo1g) :: (Dec 19, 2019) :: [Backup](https://lbry.tv/@bitsignal:a/crypto-bismuth-progress-report-2019-11:9)  
 
-* Bismuth Stats :: Graphical Animation :: [Bismuth Github Activity 2019](https://youtu.be/Qmxw6KGu8y8) :: (Jan 19, 2020)
+* Bismuth Stats :: Graphical Animation :: [Bismuth Github Activity 2019](https://youtu.be/Qmxw6KGu8y8) :: (Jan 19, 2020)  
+
+* Bismuth Stats :: [Bismuth Progress Report - May 2021](https://youtu.be/DbYCGUYlvrY) :: (May 23, 2021) :: [Backup](https://odysee.com/@Bismuth:f/BIS-Progress-Report-05-21:3)  
 
 ### Tornado Bismuth Wallet
 
