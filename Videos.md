@@ -18,6 +18,8 @@
 * Market :: ViteX ::  [Trading BIS @ a decentralized crypto exchange (dex) - x.vite.net](https://youtu.be/dBAFJBAHSWw) :: (Sep 12, 2019) :: [Backup](https://lbry.tv/@bitsignal:a/trading-bis-a-decentralized-crypto:8)  
 
 ### Bismuth Wallet (legacy)
+
+* Bismuth Wallet (legacy) :: [How To Use The Bismuth Wallet](https://www.youtube.com/watch?v=A3moeQ7PwLM) (Jan 22, 2018, created by Silver 1)  
   
 * Bismuth Wallet (legacy) :: [How to create a Bismuth address](https://www.youtube.com/watch?v=-c1FnbnFyOs) :: (July 4, 2018) :: [Backup](https://lbry.tv/@bitsignal:a/how-to-create-a-bismuth-address:4)  
 
