@@ -10,6 +10,8 @@
 
 * Bismuth World Map :: [Bismuth - Interactive Hypernode World Map](https://youtu.be/wD8i4lr4J2c) :: (Feb 09, 2021) ::  [Backup](https://lbry.tv/@bitsignal:a/bis-hypernode-world-map:5)  
 
+* About Bismuth :: [Bismuth - Video in Japanese language](https://youtu.be/bOZKVf8yoH8) :: (Feb 24, 2022)  
+
 
 ### Market
 
