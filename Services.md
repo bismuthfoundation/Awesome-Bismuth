@@ -2,16 +2,20 @@
 
 Core services and things you can buy with $BIS.
 
-## Exchanges
+## Decentralized Exchanges (DEX)
+
+* [Uniswap](https://www.dextools.io/app/uniswap/pair-explorer/0xf4f82f8d84c529987201609cecee8ab136a50c8c) (wBIS / ETH Pair)  
+* [Pancakeswap](https://www.dextools.io/app/pancakeswap/pair-explorer/0x731b8244f818fd488d9dc516edd976a96459ae59) (wBIS / NBN Pair)  
+
+## Centralized Exchanges (CEX)
 
 * [qTrade](https://qtrade.io/market/BIS_BTC)  
 * [Graviex](https://graviex.net/markets/bisbtc)  
-* [Vinex](https://vinex.network/market/BTC_BIS)  
 * [Finexbox](https://www.finexbox.com/)  
 * [Unnamed](https://www.unnamed.exchange/Exchange/Basic?market=BIS_BTC)  
 * [Cryptopia](https://www.cryptopia.co.nz) (liquidation process, hacked Jan. 2019)  
   This first exchange $BIS was listed on.
-* Heat nodes DEX
+
   
 ## Mining pools
 
@@ -35,7 +39,7 @@ WIP
   
 ## Buy with $BIS
 
-* Dragginator  
+* Dragginator (currently in maintenance)  
   A collectible games based upon non fungible tokens where you collect and evolve draggons eggs.  
   Https://Dragginator.com
 
