@@ -5,7 +5,7 @@ Core services and things you can buy with $BIS.
 ## Decentralized Exchanges (DEX)
 
 * [Uniswap](https://www.dextools.io/app/uniswap/pair-explorer/0xf4f82f8d84c529987201609cecee8ab136a50c8c) (wBIS / ETH Pair)  
-* [Pancakeswap](https://www.dextools.io/app/pancakeswap/pair-explorer/0x731b8244f818fd488d9dc516edd976a96459ae59) (wBIS / NBN Pair)  
+* [Pancakeswap](https://www.dextools.io/app/pancakeswap/pair-explorer/0x731b8244f818fd488d9dc516edd976a96459ae59) (wBIS / BNB Pair)  
 
 ## Centralized Exchanges (CEX)
 
