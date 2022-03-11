@@ -88,7 +88,9 @@
 
 * Tornado Bismuth Wallet ::  Crystal :: [Ethbridge Crystal - ETH / BIS Bridge Crystal](https://youtu.be/6CdenJJ28N4) :: (Apr 26, 2021) :: [Backup](https://odysee.com/@bitsignal:a/eth-bis-bridge-crystal:9?r=4TA11csh7aPkphHACf11FweR3DBAgvsi)  
 
-* Tornado Bismuth Wallet ::  Crystal :: [DocShield](https://youtu.be/AsHfUhrBch4) :: (Jul 21, 2021) :: [Backup](https://odysee.com/@Bismuth:f/Bismuth_DocShield:9) 
+* Tornado Bismuth Wallet ::  Crystal :: [DocShield](https://youtu.be/AsHfUhrBch4) :: (Jul 21, 2021) :: [Backup](https://odysee.com/@Bismuth:f/Bismuth_DocShield:9)  
+
+* Tornado Bismuth Wallet ::  Manually choose Wallet Server :: [Wallet Server](https://youtu.be/Zo1oLAw-9kk) :: (Mar 11, 2022) :: [Backup](https://odysee.com/@bitsignal:a/tornado-bismuth-wallet-manually-choose:7)  
 
 ### Bismuth App - Dragginator
 
