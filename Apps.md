@@ -7,7 +7,7 @@ WIP
 ### Bismuth blockchain explorer
 Explore the Bismuth PoW chain, find blocks, transactions, check balance...
 
-http://bismuth.online  
+https://bismuth.online  
 https://hypernodes.bismuth.live  
 https://bismuth.im  
 https://heatnodes.org/?page_id=859
@@ -18,7 +18,11 @@ https://github.com/iyomisc/bismuth_tokens
 
 ### Bismuth Network Status
 Crude, WIP  
-http://bismuth.live
+http://bismuth.live  
+
+### Bismuth Network World Map
+http://167.86.120.22:5493/  - [Github Source Code](https://github.com/bismuthfoundation/geomarkers)  
+https://bismuth-map.herokuapp.com/ - [Github Source Code](https://github.com/bismuthfoundation/map)  
 
 ## Desktop apps
 
