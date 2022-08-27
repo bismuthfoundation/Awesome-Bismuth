@@ -42,6 +42,11 @@
 * Bismuth Node :: [Updating a Bismuth Node - Terminal](https://youtu.be/wXsBXK5Yo2s) :: (Jan 25, 2018)  
 * Bismuth Node :: Terminal :: [How to sync your Bismuth node using a snapshot](https://www.youtube.com/watch?v=RQfBeZTgFZo) :: (Jan 10, 2019) :: [Backup](https://lbry.tv/@bitsignal:a/how-to-sync-your-bismuth-node-using-a:4)  
 
+### Bismuth GPU Mining
+  
+* Bismuth Mining :: [Eggpool](https://youtu.be/iLzSRoSX6Xw) :: (Jan 20, 2018)  
+* Bismuth Mining :: [Coinsaurus](https://youtu.be/EqRENet5EOM) :: (Aug 23, 2022) :: [Odysee Backup](https://odysee.com/@bitsignal:a/gpu-mining-bismuth-python-blockchain:a)  
+
 ### Bismuth Hypernode
   
 * Bismuth Sidechain :: Hypernode :: [Bismuth hypernode listed on Masternodec](https://www.youtube.com/watch?v=eVN7mXarrfI) :: (Dec 04, 2018) :: [Backup](https://lbry.tv/@bitsignal:a/bismuth-hypernode-listed-on-masternodec:e)  
