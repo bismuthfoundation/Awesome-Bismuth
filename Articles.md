@@ -22,10 +22,10 @@ http://www.mic-journal.no/ABS/MIC-2018-3-1.asp
 
 
 * The Bismuth plugin system - Dev oriented talk about the exclusive plugin system of Bismuth and its applications.  
-  https://steemit.com/cryptocurrency/@bitsignal/the-bismuth-plugin-system
+  [Read on](https://steemit.com/cryptocurrency/@bitsignal/the-bismuth-plugin-system) [Backup](https://peakd.com/cryptocurrency/@bitsignal/the-bismuth-plugin-system)  
   
 * EggdraSyl interviewed the developer of dragginator.com, which is a fun game on top of the #Bismuth blockchain
-  https://steemit.com/cryptocurrency/@bitsignal/developer-interview-draggon-s-eggs-soccer-cup  
+  [Read on](https://steemit.com/cryptocurrency/@bitsignal/developer-interview-draggon-s-eggs-soccer-cup) [Backup](https://peakd.com/cryptocurrency/@bitsignal/developer-interview-draggon-s-eggs-soccer-cup)  
 
 
 ## Official content
@@ -41,11 +41,11 @@ http://www.mic-journal.no/ABS/MIC-2018-3-1.asp
 
 * "Semantic Interpretation": Solution to the codebase consensus conflict in context of the Bismuth Blockchain  
   Jan Kučera, July 19 2018.  
-  https://bismuth.cz/semantic.pdf
+  https://bismuthplatform.com/semantic.pdf
   
 * Security of the Bismuth Blockchain: Analysis and Simulation  
   Geir Hovland and Jan Kucera, May 5, 2018.  
-  https://heatnodes.org/wp-content/uploads/2018/05/bis-security-20180505.pdf
+  https://hypernodes.bismuth.live/wp-content/uploads/2018/05/bis-security-20180505.pdf
 
 # Third party articles
 
@@ -62,11 +62,16 @@ http://www.mic-journal.no/ABS/MIC-2018-3-1.asp
   
 ## Bismuth In the press
 
-* Bismuth Hypernodes on masternodes.com  
+* Bismuth - No ICO, No Premine and First Python Coin!  (May 10, 2017)  
+  [Read on](https://steemit.com/bitcoin/@kingscrown/bismuth-no-ico-no-premine-and-first-python-coin)
+
+* Bismuth Hypernodes on masternodes.com (August 3, 2018)  
   http://www.masternodes.com/news/hypernodes-a-bismuths-feature/
 
-* Bismuth - No ICO, No Premine and First Python Coin!  
-  https://steemit.com/bitcoin/@kingscrown/bismuth-no-ico-no-premine-and-first-python-coin
+* Coin Report - Bismuth (December 7, 2018)  
+  https://www.altcointradershandbook.com/coin-report-bismuth/
+
+
   
 * What is Bismuth coin?  
   https://www.geekxplore.com/what-is-bismuth-coin.html
