@@ -18,13 +18,20 @@ http://www.mic-journal.no/ABS/MIC-2018-3-1.asp
 
 * 
 
-* 
+* [Bismuth Core Developer Interview](https://peakd.com/@aetsen/bismuth-developer-interview-hclivess) (March 07, 2018)  
+  Bismuth adds external indexing for open-field data, which boosts performance incredibly for tasks like token handling and aliases. The feature came from tokens and found its place in the open-field operations related to node globally, which is nice. [Backup](https://steemit.com/cryptocurrency/@aetsen/bismuth-developer-interview-hclivess)  
 
 * [The Bismuth Plugin System](https://steemit.com/cryptocurrency/@bitsignal/the-bismuth-plugin-system) (July 16, 2018)  
   Dev oriented talk about the exclusive plugin system of Bismuth and its applications. [Backup](https://peakd.com/cryptocurrency/@bitsignal/the-bismuth-plugin-system)  
   
 * [Dragginator.com NFT Interview](https://steemit.com/cryptocurrency/@bitsignal/developer-interview-draggon-s-eggs-soccer-cup) (July 11, 2018)  
   EggdraSyl interviewed the developer of dragginator.com, which is a NFT game on top of the Bismuth blockchain. [Backup](https://peakd.com/cryptocurrency/@bitsignal/developer-interview-draggon-s-eggs-soccer-cup)  
+
+* [BisBabble - Bismuth Telegram Bot, Bauer](https://hypernodes.bismuth.live/?p=1086) (January 18, 2020)  
+  In this second issue of the “BisBabble” series we welcome Endogen, a long time Bismuth supporter and developer of the Bismuth Telegram Bot, Bauer.  
+
+* [BisBabble - Bismuth Discord Bot, Pawer](https://hypernodes.bismuth.live/?p=1110) (February 07, 2020)  
+  ShadowCrypto is a Bismuth user who became a community developer contributing to the Pawer bot.  
 
 
 ## Official content
