@@ -20,11 +20,11 @@ http://www.mic-journal.no/ABS/MIC-2018-3-1.asp
 
 * 
 
-* The Bismuth plugin system - Dev oriented talk about the exclusive plugin system of Bismuth and its applications.  
-  [Read on](https://steemit.com/cryptocurrency/@bitsignal/the-bismuth-plugin-system) [Backup](https://peakd.com/cryptocurrency/@bitsignal/the-bismuth-plugin-system)  
+* [The Bismuth Plugin System](https://steemit.com/cryptocurrency/@bitsignal/the-bismuth-plugin-system) (July 16, 2018)  
+  Dev oriented talk about the exclusive plugin system of Bismuth and its applications. [Backup](https://peakd.com/cryptocurrency/@bitsignal/the-bismuth-plugin-system)  
   
-* EggdraSyl interviewed the developer of dragginator.com, which is a fun game on top of the #Bismuth blockchain
-  [Read on](https://steemit.com/cryptocurrency/@bitsignal/developer-interview-draggon-s-eggs-soccer-cup) [Backup](https://peakd.com/cryptocurrency/@bitsignal/developer-interview-draggon-s-eggs-soccer-cup)  
+* [Dragginator.com NFT Interview](https://steemit.com/cryptocurrency/@bitsignal/developer-interview-draggon-s-eggs-soccer-cup) (July 11, 2018)  
+  EggdraSyl interviewed the developer of dragginator.com, which is a NFT game on top of the Bismuth blockchain. [Backup](https://peakd.com/cryptocurrency/@bitsignal/developer-interview-draggon-s-eggs-soccer-cup)  
 
 
 ## Official content
@@ -41,7 +41,7 @@ http://www.mic-journal.no/ABS/MIC-2018-3-1.asp
 * [Semantic Interpretation](https://bismuthplatform.com/semantic.pdf) (Jan Kučera, July 19 2018)  
   Solution to the codebase consensus conflict in context of the Bismuth Blockchain.
   
-* [Security of the Bismuth Blockchain](https://hypernodes.bismuth.live/wp-content/uploads/2018/05/bis-security-20180505.pdf) (Geir Hovland and Jan Kucera, May 5, 2018)
+* [Security of the Bismuth Blockchain](https://hypernodes.bismuth.live/wp-content/uploads/2018/05/bis-security-20180505.pdf) (Geir Hovland and Jan Kucera, May 5, 2018)  
   Analysis and Simulation  
 
 
