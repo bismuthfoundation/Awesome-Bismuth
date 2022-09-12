@@ -20,7 +20,6 @@ http://www.mic-journal.no/ABS/MIC-2018-3-1.asp
 
 * 
 
-
 * The Bismuth plugin system - Dev oriented talk about the exclusive plugin system of Bismuth and its applications.  
   [Read on](https://steemit.com/cryptocurrency/@bitsignal/the-bismuth-plugin-system) [Backup](https://peakd.com/cryptocurrency/@bitsignal/the-bismuth-plugin-system)  
   
@@ -30,22 +29,21 @@ http://www.mic-journal.no/ABS/MIC-2018-3-1.asp
 
 ## Official content
 
-* Tesla Battery Monitoring on Blockchain (MAY 25, 2020)  
-  A solution for battery condition monitoring of Tesla EVs has been implemented by using the open source Bismuth public blockchain. [Read on](https://hypernodes.bismuth.live/?p=1318)
+* [Tesla Battery Monitoring on Blockchain](https://hypernodes.bismuth.live/?p=1318) (May 25, 2020)  
+  A solution for battery condition monitoring of Tesla EVs has been implemented by using the open source Bismuth public blockchain.
 
-* Android Battery Monitoring (MAY 9, 2020)  
-  A new decentralized distributed app (dApp) has been developed with the aim of monitoring battery parameters, such as temperature, charging current, battery level and health status. [Read on](https://hypernodes.bismuth.live/?p=1696)
+* [Android Battery Monitoring](https://hypernodes.bismuth.live/?p=1696) (May 9, 2020)  
+  A new decentralized distributed app (dApp) has been developed with the aim of monitoring battery parameters, such as temperature, charging current, battery level and health status.
 
-* Decentralized Condition Monitoring (APRIL 30, 2020)  
-  In this article it will be demonstrated how a new meta protocol can be used in the development of a solution for decentralized condition monitoring. [Read on](https://hypernodes.bismuth.live/?p=1527)
+* [Decentralized Condition Monitoring](https://hypernodes.bismuth.live/?p=1527) (April 30, 2020)  
+  In this article it will be demonstrated how a new meta protocol can be used in the development of a solution for decentralized condition monitoring.
 
-* "Semantic Interpretation": Solution to the codebase consensus conflict in context of the Bismuth Blockchain  
-  Jan Kučera, July 19 2018.  
-  https://bismuthplatform.com/semantic.pdf
+* [Semantic Interpretation](https://bismuthplatform.com/semantic.pdf) (Jan Kučera, July 19 2018)  
+  Solution to the codebase consensus conflict in context of the Bismuth Blockchain.
   
-* Security of the Bismuth Blockchain: Analysis and Simulation  
-  Geir Hovland and Jan Kucera, May 5, 2018.  
-  https://hypernodes.bismuth.live/wp-content/uploads/2018/05/bis-security-20180505.pdf
+* [Security of the Bismuth Blockchain](https://hypernodes.bismuth.live/wp-content/uploads/2018/05/bis-security-20180505.pdf) (Geir Hovland and Jan Kucera, May 5, 2018)
+  Analysis and Simulation  
+
 
 # Third party articles
 
@@ -62,14 +60,14 @@ http://www.mic-journal.no/ABS/MIC-2018-3-1.asp
   
 ## Bismuth In the press
 
-* Bismuth - No ICO, No Premine and First Python Coin!  (May 10, 2017)  
-  [Read on](https://steemit.com/bitcoin/@kingscrown/bismuth-no-ico-no-premine-and-first-python-coin)
+* [Bismuth - No ICO, No Premine and First Python Coin!](https://steemit.com/bitcoin/@kingscrown/bismuth-no-ico-no-premine-and-first-python-coin) (May 10, 2017)  
+  Bismuth has decentralized applications creation option and there are already dAPPS to use - [Backup](https://peakd.com/bitcoin/@kingscrown/bismuth-no-ico-no-premine-and-first-python-coin)  
 
-* Bismuth Hypernodes on masternodes.com (August 3, 2018)  
-  http://www.masternodes.com/news/hypernodes-a-bismuths-feature/
+* [Bismuth Hypernodes on masternodes.com](http://www.masternodes.com/news/hypernodes-a-bismuths-feature/) (August 3, 2018)  
+  The main-net consensus mechanism is sha-224 Proof-of-Work based and the hypernode side-chain has Proof-of-Stake properties.
 
-* Coin Report - Bismuth (December 7, 2018)  
-  https://www.altcointradershandbook.com/coin-report-bismuth/
+* [Coin Report - Bismuth](https://www.altcointradershandbook.com/coin-report-bismuth/) (December 7, 2018)  
+  Bismuth is innovative at its core in that it is the first blockchain written in Python, and thus the team must know their coin inside out and be committed enough to the project to write any additional features for it from scratch.
 
 
   
