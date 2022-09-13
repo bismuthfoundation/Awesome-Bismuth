@@ -16,7 +16,8 @@ http://www.mic-journal.no/ABS/MIC-2018-3-1.asp
 
 ## Interviews
 
-* 
+* [Cryptointerview with the lead developer of Bismuth](https://xamanap.medium.com/cryptointerview-with-tezosevangelist-b45cbb72e414) (Sep 29, 2017)  
+  Bismuth is trying to be modular, extensible and as simple as possible with only about 2400 lines of code.  
 
 * [Bismuth Core Developer Interview](https://peakd.com/@aetsen/bismuth-developer-interview-hclivess) (March 07, 2018)  
   Bismuth adds external indexing for open-field data, which boosts performance incredibly for tasks like token handling and aliases. The feature came from tokens and found its place in the open-field operations related to node globally, which is nice. [Backup](https://steemit.com/cryptocurrency/@aetsen/bismuth-developer-interview-hclivess)  
@@ -29,6 +30,9 @@ http://www.mic-journal.no/ABS/MIC-2018-3-1.asp
 
 * [BisBabble - Bismuth Telegram Bot, Bauer](https://hypernodes.bismuth.live/?p=1086) (January 18, 2020)  
   In this second issue of the “BisBabble” series we welcome Endogen, a long time Bismuth supporter and developer of the Bismuth Telegram Bot, Bauer.  
+
+* [The first Python Blockchain](https://medium.com/@cblackbeard/bismuth-the-first-python-blockchain-6e2fb0b53a4f) (Jan 16, 2019)  
+  Bismuth is trying to be modular, extensible and as simple as possible. To make an analogy, let’s say Bismuth is blockchain Lego.
 
 * [BisBabble - Bismuth Discord Bot, Pawer](https://hypernodes.bismuth.live/?p=1110) (February 07, 2020)  
   ShadowCrypto is a Bismuth user who became a community developer contributing to the Pawer bot.  
@@ -70,8 +74,8 @@ http://www.mic-journal.no/ABS/MIC-2018-3-1.asp
 * [Bismuth - No ICO, No Premine and First Python Coin!](https://steemit.com/bitcoin/@kingscrown/bismuth-no-ico-no-premine-and-first-python-coin) (May 10, 2017)  
   Bismuth has decentralized applications creation option and there are already dAPPS to use - [Backup](https://peakd.com/bitcoin/@kingscrown/bismuth-no-ico-no-premine-and-first-python-coin)  
 
-* [Solution to the codebase consensus conflict in context of the Bismuth Blockchain](https://medium.com/@uploadbeforeyoudie/semantic-interpretation-solution-to-the-codebase-consensus-conflict-in-context-of-the-bismuth-35dbfafc82a7)  
-  The semantic interpretation approach to the singular codebase problem. In this model, the core system remains untouched and is governed by consensus. The semantic interpretation level exists above the core layer.  
+* [Solution to the codebase consensus conflict in context of the Bismuth Blockchain](https://medium.com/@uploadbeforeyoudie/semantic-interpretation-solution-to-the-codebase-consensus-conflict-in-context-of-the-bismuth-35dbfafc82a7) (July, 19 2018)  
+  The semantic interpretation approach to the singular codebase problem. In this model, the core system remains untouched and is governed by consensus. The semantic interpretation level exists above the core layer. 
 
 * [Bismuth Hypernodes on masternodes.com](http://www.masternodes.com/news/hypernodes-a-bismuths-feature/) (August 3, 2018)  
   The main-net consensus mechanism is sha-224 Proof-of-Work based and the hypernode side-chain has Proof-of-Stake properties.
