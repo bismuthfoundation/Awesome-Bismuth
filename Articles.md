@@ -70,6 +70,9 @@ http://www.mic-journal.no/ABS/MIC-2018-3-1.asp
 * [Bismuth - No ICO, No Premine and First Python Coin!](https://steemit.com/bitcoin/@kingscrown/bismuth-no-ico-no-premine-and-first-python-coin) (May 10, 2017)  
   Bismuth has decentralized applications creation option and there are already dAPPS to use - [Backup](https://peakd.com/bitcoin/@kingscrown/bismuth-no-ico-no-premine-and-first-python-coin)  
 
+* [Solution to the codebase consensus conflict in context of the Bismuth Blockchain](https://medium.com/@uploadbeforeyoudie/semantic-interpretation-solution-to-the-codebase-consensus-conflict-in-context-of-the-bismuth-35dbfafc82a7)  
+  The semantic interpretation approach to the singular codebase problem. In this model, the core system remains untouched and is governed by consensus. The semantic interpretation level exists above the core layer.  
+
 * [Bismuth Hypernodes on masternodes.com](http://www.masternodes.com/news/hypernodes-a-bismuths-feature/) (August 3, 2018)  
   The main-net consensus mechanism is sha-224 Proof-of-Work based and the hypernode side-chain has Proof-of-Stake properties.
 
