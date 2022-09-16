@@ -37,7 +37,6 @@ http://www.mic-journal.no/ABS/MIC-2018-3-1.asp
 * [BisBabble - Bismuth Discord Bot, Pawer](https://hypernodes.bismuth.live/?p=1110) (February 07, 2020)  
   ShadowCrypto is a Bismuth user who became a community developer contributing to the Pawer bot.  
 
-
 ## Official content
 
 * [Tesla Battery Monitoring on Blockchain](https://hypernodes.bismuth.live/?p=1318) (May 25, 2020)  
@@ -55,7 +54,6 @@ http://www.mic-journal.no/ABS/MIC-2018-3-1.asp
 * [Security of the Bismuth Blockchain](https://hypernodes.bismuth.live/wp-content/uploads/2018/05/bis-security-20180505.pdf) (Geir Hovland and Jan Kucera, May 5, 2018)  
   Analysis and Simulation  
 
-
 # Third party articles
 
 ## Reviews
@@ -66,8 +64,8 @@ http://www.mic-journal.no/ABS/MIC-2018-3-1.asp
 * 3 promising Altcoins to invest in for 2018. (A Thoreau Analysis)  
   https://medium.com/@altcointhoreau/3-promising-altcoins-to-invest-in-for-2018-a-thoreau-analysis-f6cc95cd83
   
-* Bismuth Review – Cryptocurrency Guide  
-  https://statrader.com/bismuth-review/
+* [Bismuth: A Dapp Building Platform that doesn’t Bite](https://cryptoshib.com/bismuth-dapp-building-platform/) (April 12, 2020)  
+  Bismuth’s philosophy is all about simplicity and accessibility. By allowing developers to use Python to create their Dapps, they are giving budding developers a platform to bring into reality ideas, that may have otherwise stayed in their minds.  
   
 ## Bismuth In the press
 
