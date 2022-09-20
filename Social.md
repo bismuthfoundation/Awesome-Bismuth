@@ -19,15 +19,16 @@ https://discord.bismuth.live
 
 ## Twitter
 
-* Official account https://twitter.com/bismuth_cz
+* Official account - https://twitter.com/BismuthPlatform
 * @hclivess personal account - Core dev, founder https://twitter.com/tezosevangelist
-* https://twitter.com/bismuthdev
+* Jan - https://twitter.com/bismuthdev
 * EggdraSyl - https://twitter.com/Eggpoolnet
-* Maccaspacca https://twitter.com/maccaspacca1
-* Alatay https://twitter.com/BryanMcEachran
-* Jim https://twitter.com/jimtalksdata
+* Maccaspacca - https://twitter.com/maccaspacca1
+* Jim - https://twitter.com/jimtalksdata
 
 ## Other channels
+
+* Youtube Channel - https://www.youtube.com/channel/UCjcTUJjqFFwwst2xxz9pF2A
 
 ### Facebook
 
@@ -35,7 +36,8 @@ https://www.facebook.com/cryptobismuth
 
 ### Telegram
 
-https://t.me/cryptobismuth
+* https://t.me/cryptobismuth
+* https://t.me/bismuthplatform
 
 ### Reddit
 https://www.reddit.com/r/cryptobismuth
