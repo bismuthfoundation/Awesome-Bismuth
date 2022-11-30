@@ -95,7 +95,7 @@
 
 * Tornado Bismuth Wallet ::  Crystal :: [DocShield](https://youtu.be/AsHfUhrBch4) :: (Jul 21, 2021) :: [Backup](https://odysee.com/@Bismuth:f/Bismuth_DocShield:9)  
 
-* Tornado Bismuth Wallet :: Crystal :: [Tesla App (EV Battery Monitoring)](https://youtu.be/WuF7_-dbcHg) :: (Nov 30, 2022)  
+* Tornado Bismuth Wallet ::  Crystal :: [Tesla App (EV Battery Monitoring)](https://youtu.be/WuF7_-dbcHg) :: (Nov 30, 2022)  
 
 * Tornado Bismuth Wallet ::  Manually choose Wallet Server :: [Wallet Server](https://youtu.be/Zo1oLAw-9kk) :: (Mar 11, 2022) :: [Backup](https://odysee.com/@bitsignal:a/tornado-bismuth-wallet-manually-choose:7)  
 
