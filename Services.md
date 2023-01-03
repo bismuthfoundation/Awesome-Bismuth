@@ -6,12 +6,13 @@ Core services and things you can buy with $BIS.
 
 * [Uniswap](https://www.dextools.io/app/uniswap/pair-explorer/0xf4f82f8d84c529987201609cecee8ab136a50c8c) (wBIS / ETH Pair)  
 * [Pancakeswap](https://www.dextools.io/app/pancakeswap/pair-explorer/0x731b8244f818fd488d9dc516edd976a96459ae59) (wBIS / BNB Pair)  
+* [Vite](https://x.vite.net/trade?symbol=BIS-000_BTC-000)  
 
 ## Centralized Exchanges (CEX)
 
-* [qTrade](https://qtrade.io/market/BIS_BTC)  
 * [Graviex](https://graviex.net/markets/bisbtc)  
 * [Finexbox](https://www.finexbox.com/)  
+* [qTrade](https://qtradehelp.zendesk.com/hc/en-us/articles/11423085662733) (qTrade.io has shut down, December 31st, 2022)  
 * [Unnamed](https://www.unnamed.exchange/Exchange/Basic?market=BIS_BTC)  
 * [Cryptopia](https://www.cryptopia.co.nz) (liquidation process, hacked Jan. 2019)  
   This first exchange $BIS was listed on.
