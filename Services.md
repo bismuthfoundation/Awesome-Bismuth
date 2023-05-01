@@ -42,5 +42,5 @@ WIP
 
 * Dragginator (currently in maintenance)  
   A collectible games based upon non fungible tokens where you collect and evolve draggons eggs.  
-  Https://Dragginator.com
+  https://dragginator.com
 
