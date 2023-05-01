@@ -63,6 +63,8 @@ A Json-RPC Server, bitcoin alike, for Bismuth Crypto Currency.
 https://github.com/bismuthfoundation/BismuthRPC
 
 ## Mobile apps
+Android 'my Bismuth Wallet'  
+https://play.google.com/store/apps/details?id=io.reddwarf.my_bismuth_wallet
 
 Discontinued (do not use):  
 Chameleon Pay ([Discontinuation Announcement](https://medium.com/chainzilla/announcement-chameleon-being-open-sourced-f507e55060fb)) - Android/iOS  (3rd party multi mobile wallet)  
