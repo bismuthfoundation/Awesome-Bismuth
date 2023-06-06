@@ -6,17 +6,18 @@
 |----------|-------------|---------------|--------------|--------|
 | Analysis | Crypto Zombie - Talking about Bismuth | Jan 11, 2018 | [Video](https://youtu.be/2o8pO9s9DOY?t=1118) | N/A |
 | Analysis | Rare and Exotic Coins Ep. 7 Bismuth (BIS) | Jan 17, 2018 | [Video](https://www.youtube.com/watch?v=YRGnuVaxU1Q) | N/A |
-| Analysis | Bismuth - The python blockchain construction set | Jan 27, 2020 | [Video](https://youtu.be/59NUbi1SgQs) | [Backup](https://lbry.tv/@bitsignal:a/Bismuth:e) |
+| Analysis | Bismuth - The python blockchain construction set | Jan 27, 2020 | [Video](https://youtu.be/y3r3WcT3P2Q) | [Backup](https://lbry.tv/@bitsignal:a/Bismuth:e) |
 | Analysis | Interactive Bismuth Hypernode World Map | Feb 09, 2021 | [Video](https://youtu.be/wD8i4lr4J2c) | [Backup](https://lbry.tv/@bitsignal:a/bis-hypernode-world-map:5) |
 | Analysis | Bismuth - Video in Japanese language | Feb 24, 2022 | [Video](https://youtu.be/bOZKVf8yoH8) | N/A |
 
 
-
 ### Market
 
-* Market :: [How to buy/sell Bismuth at Openbazaar](https://www.youtube.com/watch?v=osVE05jrdXg) :: (Aug 3, 2018) :: [Backup](https://lbry.tv/@bitsignal:a/how-to-sell-cryptocurrency-using-the:f)  
+| Category | Video Title | Creation Date |  Link | Backup |
+|----------|-------------|---------------|--------------|--------|
+| Market | How to buy/sell Bismuth at Openbazaar | Aug 3, 2018 | [Video](https://youtu.be/osVE05jrdXg) | [Backup](https://lbry.tv/@bitsignal:a/how-to-sell-cryptocurrency-using-the:f) |
+| Market | Trading BIS @ a decentralized crypto exchange (dex) - x.vite.net | Sep 12, 2019 | [Video](https://youtu.be/dBAFJBAHSWw) | [Backup](https://lbry.tv/@bitsignal:a/trading-bis-a-decentralized-crypto:8) |
 
-* Market :: ViteX ::  [Trading BIS @ a decentralized crypto exchange (dex) - x.vite.net](https://youtu.be/dBAFJBAHSWw) :: (Sep 12, 2019) :: [Backup](https://lbry.tv/@bitsignal:a/trading-bis-a-decentralized-crypto:8)  
 
 ### Bismuth Wallet (legacy)
 
