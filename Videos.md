@@ -2,15 +2,14 @@
 
 ### Analysis
 
-* Bismuth Analysis :: [Crypto Zombie - Talking about Bismuth](https://youtu.be/2o8pO9s9DOY?t=1118)  
-  
-* Bismuth Analysis :: [Rare and Exotic Coins Ep. 7 Bismuth (BIS)](https://www.youtube.com/watch?v=YRGnuVaxU1Q) :: (Jan 17, 2018)  
+| Category | Video Title | Creation Date |  Link | Backup |
+|----------|-------------|---------------|--------------|--------|
+| Analysis | Crypto Zombie - Talking about Bismuth | Jan 11, 2018 | [Video](https://youtu.be/2o8pO9s9DOY?t=1118) | N/A |
+| Analysis | Rare and Exotic Coins Ep. 7 Bismuth (BIS) | Jan 17, 2018 | [Video](https://www.youtube.com/watch?v=YRGnuVaxU1Q) | N/A |
+| Analysis | Bismuth - The python blockchain construction set | Jan 27, 2020 | [Video](https://youtu.be/59NUbi1SgQs) | [Backup](https://lbry.tv/@bitsignal:a/Bismuth:e) |
+| Analysis | Interactive Bismuth Hypernode World Map | Feb 09, 2021 | [Video](https://youtu.be/wD8i4lr4J2c) | [Backup](https://lbry.tv/@bitsignal:a/bis-hypernode-world-map:5) |
+| Analysis | Bismuth - Video in Japanese language | Feb 24, 2022 | [Video](https://youtu.be/bOZKVf8yoH8) | N/A |
 
-* Bismuth Analysis :: [Bismuth - The python blockchain construction set](https://youtu.be/59NUbi1SgQs) :: (Jan 27, 2020) ::  [Backup](https://lbry.tv/@bitsignal:a/Bismuth:e)  
-
-* Bismuth World Map :: [Bismuth - Interactive Hypernode World Map](https://youtu.be/wD8i4lr4J2c) :: (Feb 09, 2021) ::  [Backup](https://lbry.tv/@bitsignal:a/bis-hypernode-world-map:5)  
-
-* About Bismuth :: [Bismuth - Video in Japanese language](https://youtu.be/bOZKVf8yoH8) :: (Feb 24, 2022)  
 
 
 ### Market
