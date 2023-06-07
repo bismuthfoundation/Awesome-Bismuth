@@ -19,19 +19,17 @@
 | Market | Trading BIS @ a decentralized crypto exchange (dex) - x.vite.net | Sep 12, 2019 | [Video](https://youtu.be/dBAFJBAHSWw) | [Backup](https://lbry.tv/@bitsignal:a/trading-bis-a-decentralized-crypto:8) |
 
 
-### Bismuth Wallet (legacy)
+### Bismuth TK-Wallet (legacy)
 
-* Bismuth Wallet (legacy) :: [How To Use The Bismuth Wallet](https://www.youtube.com/watch?v=A3moeQ7PwLM) (Jan 22, 2018, created by Silver 1)  
-  
-* Bismuth Wallet (legacy) :: [How to create a Bismuth address](https://www.youtube.com/watch?v=-c1FnbnFyOs) :: (July 4, 2018) :: [Backup](https://lbry.tv/@bitsignal:a/how-to-create-a-bismuth-address:4)  
+| Category | Video Title | Creation Date |  Link | Backup |
+|----------|-------------|---------------|--------------|--------|
+| TK-Wallet | How to use the TK-Wallet | Jan 22, 2018 | [Video](https://youtu.be/A3moeQ7PwLM) | N/A |
+| TK-Wallet | How to create a Bismuth address | July 4, 2018 | [Video](https://youtu.be/-c1FnbnFyOs) | [Backup](https://lbry.tv/@bitsignal:a/how-to-create-a-bismuth-address:4) |
+| TK-Wallet | Use your custom Bismuth Wallet theme | May 18, 2018 | [Video](https://youtu.be/EIkWo6GjCj4) | [Backup](https://lbry.tv/@bitsignal:a/bismuth-wallet-themes:7) |
+| TK-Wallet | Create a Bismuth alias | May 11, 2018 | [Video](https://youtu.be/Jb8bcGG5N5k) | [Backup](https://lbry.tv/@bitsignal:a/creating-a-bismuth-alias:6) |
+| TK-Wallet | Create a token transaction | (May 10, 2018) | [Video](https://youtu.be/DSi0NJD4fQg) | [Backup](https://lbry.tv/@bitsignal:a/creating-a-bismuth-cryptocurrency-token:7) |
+| TK-Wallet | Load a wallet.json file into the TK-Wallet | (April 11, 2020) | [Video](https://youtu.be/DQLPhXin8TA) | [Backup](https://lbry.tv/@bitsignal:a/2020-04-11-Bismuth-tk-wallet2:4) |
 
-* Bismuth Wallet (legacy) :: [Use your custom Bismuth Wallet theme](https://www.youtube.com/watch?v=EIkWo6GjCj4) :: (May 18, 2018) :: [Backup](https://lbry.tv/@bitsignal:a/bismuth-wallet-themes:7)  
-  
-* Bismuth Wallet (legacy) :: Alias :: [Create a Bismuth alias](https://www.youtube.com/watch?v=Jb8bcGG5N5k) :: (May 11, 2018) :: [Backup](https://lbry.tv/@bitsignal:a/creating-a-bismuth-alias:6)  
-  
-* Bismuth Wallet (legacy) :: Token :: [Create a token transaction](https://www.youtube.com/watch?v=DSi0NJD4fQg) :: (May 10, 2018) :: [Backup](https://lbry.tv/@bitsignal:a/creating-a-bismuth-cryptocurrency-token:7)  
-
-* Bismuth TK-Wallet (legacy) :: [How to load a wallet.json file into the Bismuth TK-Wallet](https://www.youtube.com/watch?v=DQLPhXin8TA) :: (April 11, 2020) :: [Backup](https://lbry.tv/@bitsignal:a/2020-04-11-Bismuth-tk-wallet2:4)  
 
 ### Bismuth Paper Wallet
 
