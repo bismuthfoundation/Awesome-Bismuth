@@ -48,34 +48,39 @@
 
 ### Bismuth GPU Mining
   
-* Bismuth Mining :: [Eggpool](https://youtu.be/iLzSRoSX6Xw) :: (Jan 20, 2018)  
-* Bismuth Mining :: [Coinsaurus](https://youtu.be/EqRENet5EOM) :: (Aug 23, 2022) :: [Odysee Backup](https://odysee.com/@bitsignal:a/gpu-mining-bismuth-python-blockchain:a)  
+| Category | Video Title | Creation Date |  Link | Backup |
+|----------|-------------|---------------|--------------|--------|
+| Mining | Eggpool | Jan 20, 2018 | [Video](https://youtu.be/iLzSRoSX6Xw) | N/A |
+| Mining | Coinsaurus | Aug 23, 2022 | [Video](https://youtu.be/EqRENet5EOM) | [Backup](https://odysee.com/@bitsignal:a/gpu-mining-bismuth-python-blockchain:a) |
 
-### Bismuth Hypernode
-  
-* Bismuth Sidechain :: Hypernode :: [Bismuth hypernode listed on Masternodec](https://www.youtube.com/watch?v=eVN7mXarrfI) :: (Dec 04, 2018) :: [Backup](https://lbry.tv/@bitsignal:a/bismuth-hypernode-listed-on-masternodec:e)  
 
-* Bismuth Sidechain :: Hypernode :: [How to upgrade a Bismuth Hypernode](https://youtu.be/3hNaV3jWf_w) :: (Apr 10, 2019) :: [Backup](https://lbry.tv/@bitsignal:a/how-to-upgrade-a-bismuth-hypernode:1)  
-  
-* Bismuth Sidechain :: Hypernode :: [Update the Bismuth Hypernode Sentinel](https://youtu.be/J5CMRhWpiNE) :: (Apr 11, 2019)  
+### Bismuth Hypernode Side-Chain
 
-### Bismuth Bot
+| Category | Video Title | Creation Date |  Link | Backup |
+|----------|-------------|---------------|--------------|--------|
+| Hypernode | Masternode.com lists Hypernode Data | Dec 04, 2018 | [Video](https://youtu.be/eVN7mXarrfI) |[Backup](https://lbry.tv/@bitsignal:a/bismuth-hypernode-listed-on-masternodec:e) |
+| Hypernode | How to upgrade the Hypernode | Apr 10, 2019 | [Video](https://youtu.be/3hNaV3jWf_w) | [Backup](https://lbry.tv/@bitsignal:a/how-to-upgrade-a-bismuth-hypernode:1) |
+| Hypernode | Update the Hypernode Sentinel | Apr 11, 2019 | [Video](https://youtu.be/J5CMRhWpiNE) | N/A |
 
-* Bismuth Bot :: Pawer :: [Use the Pawer-Bismuth-Bot to create an address, accept tips & airdrops](https://www.youtube.com/watch?v=j2GT-LDS-x8) :: (Dec 07, 2018) :: [Backup](https://lbry.tv/@bitsignal:a/use-the-pawer-bismuth-bot-to-create-an:7)  
 
-* Bismuth Bot :: Pawer :: [The Bismuth Pawer Bot supports BISURL & OPERATION](https://youtu.be/ICGtzxTFjDY) :: (Sep 19, 2020) :: [Backup](https://lbry.tv/@bitsignal:a/bismuth-pawer-bot:4)  
+### Bismuth Discord Pawer Bot
 
-* Bismuth Bot :: Pawer :: [The Bismuth Pawer Bot supports Token commands](https://youtu.be/BYZFjTskhJw) :: (Oct 08, 2020) :: [Backup](https://open.lbry.com/@bitsignal:a/Bismuth---Discord-Pawer-Bot-Token-commands-added:e?r=Cs8xYuMLLM6cpLkssEHZ4mSUX8Py3S4D)  
+| Category | Video Title | Creation Date |  Link | Backup |
+|----------|-------------|---------------|--------------|--------|
+| Pawer Bot | Basic Pawer Bot Commands | Dec 07, 2018 | [Video](https://youtu.be/j2GT-LDS-x8) | [Backup](https://lbry.tv/@bitsignal:a/use-the-pawer-bismuth-bot-to-create-an:7) |
+| Pawer Bot | Pawer Bot supports BISURL & OPERATION | Sep 19, 2020 | [Video](https://youtu.be/ICGtzxTFjDY) | [Backup](https://lbry.tv/@bitsignal:a/bismuth-pawer-bot:4) |
+| Pawer Bot | Pawer Bot supports Token Commands | Oct 08, 2020 | [Video](https://youtu.be/BYZFjTskhJw) | [Backup](https://open.lbry.com/@bitsignal:a/Bismuth---Discord-Pawer-Bot-Token-commands-added:e?r=Cs8xYuMLLM6cpLkssEHZ4mSUX8Py3S4D) |
+
 
 ### Bismuth Stats
 
-* Bismuth Stats :: Graphical Animation :: [Bismuth Github Activity 2018](https://www.youtube.com/watch?v=02VGbGV6Rks) :: (Jan 01, 2019) :: [Backup](https://lbry.tv/@bitsignal:a/bismuth-is-evolving:7)  
+| Category | Video Title | Creation Date |  Link | Backup |
+|----------|-------------|---------------|--------------|--------|
+| Info | Bismuth Github Activity 2018 | Jan 01, 2019 | [Video](https://youtu.be/02VGbGV6Rks) | [Backup](https://lbry.tv/@bitsignal:a/bismuth-is-evolving:7) |
+| Info | Bismuth Progress Report Nov 2019 | Dec 19, 2019 | [Video](https://youtu.be/ejbR_PXCo1g) | [Backup](https://lbry.tv/@bitsignal:a/crypto-bismuth-progress-report-2019-11:9) |
+| Info | Bismuth Github Activity 2019 | Jan 19, 2020 | [Video](https://youtu.be/Qmxw6KGu8y8) | N/A |
+| Info | Bismuth Progress Report May 2021 | May 23, 2021 | [Video](https://youtu.be/DbYCGUYlvrY) | [Backup](https://odysee.com/@Bismuth:f/BIS-Progress-Report-05-21:3) |
 
-* Bismuth Stats :: [Crypto Bismuth Progress Report 2019-11-19](https://youtu.be/ejbR_PXCo1g) :: (Dec 19, 2019) :: [Backup](https://lbry.tv/@bitsignal:a/crypto-bismuth-progress-report-2019-11:9)  
-
-* Bismuth Stats :: Graphical Animation :: [Bismuth Github Activity 2019](https://youtu.be/Qmxw6KGu8y8) :: (Jan 19, 2020)  
-
-* Bismuth Stats :: [Bismuth Progress Report - May 2021](https://youtu.be/DbYCGUYlvrY) :: (May 23, 2021) :: [Backup](https://odysee.com/@Bismuth:f/BIS-Progress-Report-05-21:3)  
 
 ### Tornado Bismuth Wallet
 
