@@ -16,7 +16,7 @@
 | Category | Video Title | Creation Date |  Link | Backup |
 |----------|-------------|---------------|--------------|--------|
 | Market | How to buy/sell Bismuth at Openbazaar | Aug 3, 2018 | [Video](https://youtu.be/osVE05jrdXg) | [Backup](https://lbry.tv/@bitsignal:a/how-to-sell-cryptocurrency-using-the:f) |
-| Market | Trading BIS at the ViteX decentralized | Sep 12, 2019 | [Video](https://youtu.be/dBAFJBAHSWw) | [Backup](https://lbry.tv/@bitsignal:a/trading-bis-a-decentralized-crypto:8) |
+| Market | Trading BIS at the decentralized ViteX exchange | Sep 12, 2019 | [Video](https://youtu.be/dBAFJBAHSWw) | [Backup](https://lbry.tv/@bitsignal:a/trading-bis-a-decentralized-crypto:8) |
 
 
 ### Bismuth TK-Wallet (legacy)
@@ -84,29 +84,21 @@
 
 ### Tornado Bismuth Wallet
 
-* Tornado Bismuth Wallet :: [How to create/ import a Bismuth address](https://youtu.be/EzrPu9xbDsU) :: (Feb 04, 2019) :: [Backup](https://lbry.tv/@bitsignal:a/how-to-create-a-public-address-using-the:b)  
-  
-* Tornado Bismuth Wallet :: [Sending/ Receiving Bismuth - Crystals](https://www.youtube.com/watch?v=LtGSduoQADo) :: (Feb 18, 2019) :: [Backup](https://lbry.tv/@bitsignal:a/tornado-bismuth-wallet-sending-receiving:b)  
-    
-* Tornado Bismuth Wallet :: [Tornado Bismuth Wallet Import from Legacy Wallet](https://youtu.be/zZgt-e1mluw) :: (May 11, 2019) :: [Backup](https://lbry.tv/@bitsignal:a/tornado-bismuth-wallet-import-from:b)  
+| Category | Video Title | Creation Date |  Link | Backup |
+|----------|-------------|---------------|--------------|--------|
+| Tornado Wallet | Creating / Importing a Bismuth address | Feb 04, 2019 | [Video](https://youtu.be/EzrPu9xbDsU) | [Backup](https://lbry.tv/@bitsignal:a/how-to-create-a-public-address-using-the:b) |
+| Tornado Wallet | Sending / Receiving Bismuth | Feb 18, 2019 | [Video](https://youtu.be/LtGSduoQADo) | [Backup](https://lbry.tv/@bitsignal:a/tornado-bismuth-wallet-sending-receiving:b) |
+| Tornado Wallet | Import keys from Legacy Wallet | May 11, 2019 | [Video](https://youtu.be/zZgt-e1mluw) | [Backup](https://lbry.tv/@bitsignal:a/tornado-bismuth-wallet-import-from:b) |
+| Tornado Wallet | Import encrypted TK-Wallet | Jun 18, 2019 | [Video](https://youtu.be/st2KP2qIpE4) | [Backup](https://lbry.tv/@bitsignal:a/import-encrypted-legacy-wallet-to:6) |
+| Tornado Wallet | Encrypting / Decrypting messages | Jun 19, 2019 | [Video](https://youtu.be/jg9IiQisX-I) | [Backup](https://lbry.tv/@bitsignal:a/how-to-encrypt-decrypt-messages-between:3) |
+| Tornado Wallet | Creating an alias | Aug 12, 2019 | [Video](https://youtu.be/91azxuiT3nA) | [Backup](https://lbry.tv/@bitsignal:a/create-a-bismuth-alias-using-the-tornado:8) |
+| Tornado Wallet | Issuing / Sending BIS based Tokens | Jul 20, 2020 | [Video](https://youtu.be/mZfsWmK_m7I) | [Backup](https://lbry.tv/@bitsignal:a/Bismuth-Tokens:3) |
+| Tornado Wallet | Manage BIS based Tokens | Aug 28, 2020 | [Video](https://youtu.be/ulgSleftzCE) | [Backup](https://lbry.tv/@bitsignal:a/Manage-your-Bismuth-based-Tokens-from-within-the-Tornado-Wallet:a) |
+| Tornado Wallet | ETH / BIS Bridge Crystal | Apr 26, 2021 | [Video](https://youtu.be/6CdenJJ28N4) | [Backup](https://odysee.com/@bitsignal:a/eth-bis-bridge-crystal:9?r=4TA11csh7aPkphHACf11FweR3DBAgvsi) |
+| Tornado Wallet | DocShield App | Jul 21, 2021 | [Video](https://youtu.be/AsHfUhrBch4) | [Backup](https://odysee.com/@Bismuth:f/Bismuth_DocShield:9) |
+| Tornado Wallet | Tesla App (EV Battery Monitoring) | Nov 30, 2022 | [Video](https://youtu.be/WuF7_-dbcHg) | N/A |
+| Tornado Wallet | Choose Wallet Server | Mar 11, 2022 | [Video](https://youtu.be/Zo1oLAw-9kk) | [Backup](https://odysee.com/@bitsignal:a/tornado-bismuth-wallet-manually-choose:7) |
 
-* Tornado Bismuth Wallet :: [Import encrypted legacy wallet to Tornado Bismuth Wallet](https://youtu.be/st2KP2qIpE4) :: (Jun 18, 2019) :: [Backup](https://lbry.tv/@bitsignal:a/import-encrypted-legacy-wallet-to:6)  
-  
-* Tornado Bismuth Wallet :: [How to encrypt/ decrypt messages between Bismuth users](https://youtu.be/jg9IiQisX-I) :: (Jun 19, 2019) :: [Backup](https://lbry.tv/@bitsignal:a/how-to-encrypt-decrypt-messages-between:3)  
-
-* Tornado Bismuth Wallet ::  Alias :: [Create a Bismuth alias using the Tornado Bismuth Wallet](https://youtu.be/91azxuiT3nA) :: (Aug 12, 2019) :: [Backup](https://lbry.tv/@bitsignal:a/create-a-bismuth-alias-using-the-tornado:8)  
-
-* Tornado Bismuth Wallet ::  Tokens :: [How to issue and send Bismuth Tokens](https://youtu.be/mZfsWmK_m7I) :: (Jul 20, 2020) :: [Backup](https://lbry.tv/@bitsignal:a/Bismuth-Tokens:3)  
-
-* Tornado Bismuth Wallet ::  Tokens :: [Bismuthtokens Crystal - Manage Bismuth based Tokens](https://youtu.be/ulgSleftzCE) :: (Aug 28, 2020) :: [Backup](https://lbry.tv/@bitsignal:a/Manage-your-Bismuth-based-Tokens-from-within-the-Tornado-Wallet:a)  
-
-* Tornado Bismuth Wallet ::  Crystal :: [Ethbridge Crystal - ETH / BIS Bridge Crystal](https://youtu.be/6CdenJJ28N4) :: (Apr 26, 2021) :: [Backup](https://odysee.com/@bitsignal:a/eth-bis-bridge-crystal:9?r=4TA11csh7aPkphHACf11FweR3DBAgvsi)  
-
-* Tornado Bismuth Wallet ::  Crystal :: [DocShield](https://youtu.be/AsHfUhrBch4) :: (Jul 21, 2021) :: [Backup](https://odysee.com/@Bismuth:f/Bismuth_DocShield:9)  
-
-* Tornado Bismuth Wallet ::  Crystal :: [Tesla App (EV Battery Monitoring)](https://youtu.be/WuF7_-dbcHg) :: (Nov 30, 2022)  
-
-* Tornado Bismuth Wallet ::  Manually choose Wallet Server :: [Wallet Server](https://youtu.be/Zo1oLAw-9kk) :: (Mar 11, 2022) :: [Backup](https://odysee.com/@bitsignal:a/tornado-bismuth-wallet-manually-choose:7)  
 
 ### Bismuth App - Dragginator
 
