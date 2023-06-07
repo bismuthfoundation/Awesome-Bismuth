@@ -16,7 +16,7 @@
 | Category | Video Title | Creation Date |  Link | Backup |
 |----------|-------------|---------------|--------------|--------|
 | Market | How to buy/sell Bismuth at Openbazaar | Aug 3, 2018 | [Video](https://youtu.be/osVE05jrdXg) | [Backup](https://lbry.tv/@bitsignal:a/how-to-sell-cryptocurrency-using-the:f) |
-| Market | Trading BIS @ a decentralized crypto exchange (dex) - x.vite.net | Sep 12, 2019 | [Video](https://youtu.be/dBAFJBAHSWw) | [Backup](https://lbry.tv/@bitsignal:a/trading-bis-a-decentralized-crypto:8) |
+| Market | Trading BIS at the ViteX decentralized | Sep 12, 2019 | [Video](https://youtu.be/dBAFJBAHSWw) | [Backup](https://lbry.tv/@bitsignal:a/trading-bis-a-decentralized-crypto:8) |
 
 
 ### Bismuth TK-Wallet (legacy)
@@ -27,18 +27,24 @@
 | TK-Wallet | How to create a Bismuth address | July 4, 2018 | [Video](https://youtu.be/-c1FnbnFyOs) | [Backup](https://lbry.tv/@bitsignal:a/how-to-create-a-bismuth-address:4) |
 | TK-Wallet | Use your custom Bismuth Wallet theme | May 18, 2018 | [Video](https://youtu.be/EIkWo6GjCj4) | [Backup](https://lbry.tv/@bitsignal:a/bismuth-wallet-themes:7) |
 | TK-Wallet | Create a Bismuth alias | May 11, 2018 | [Video](https://youtu.be/Jb8bcGG5N5k) | [Backup](https://lbry.tv/@bitsignal:a/creating-a-bismuth-alias:6) |
-| TK-Wallet | Create a token transaction | (May 10, 2018) | [Video](https://youtu.be/DSi0NJD4fQg) | [Backup](https://lbry.tv/@bitsignal:a/creating-a-bismuth-cryptocurrency-token:7) |
-| TK-Wallet | Load a wallet.json file into the TK-Wallet | (April 11, 2020) | [Video](https://youtu.be/DQLPhXin8TA) | [Backup](https://lbry.tv/@bitsignal:a/2020-04-11-Bismuth-tk-wallet2:4) |
+| TK-Wallet | Create a token transaction | May 10, 2018 | [Video](https://youtu.be/DSi0NJD4fQg) | [Backup](https://lbry.tv/@bitsignal:a/creating-a-bismuth-cryptocurrency-token:7) |
+| TK-Wallet | Load a wallet.json file into the TK-Wallet | April 11, 2020 | [Video](https://youtu.be/DQLPhXin8TA) | [Backup](https://lbry.tv/@bitsignal:a/2020-04-11-Bismuth-tk-wallet2:4) |
 
 
 ### Bismuth Paper Wallet
 
-* Paper Wallet :: BISafe :: [How to create a Bismuth cold storage address](https://youtu.be/HB4HREjKJJc) :: (Feb 19, 2018) :: [Backup](https://lbry.tv/@bitsignal:a/bismuth-cold-storage-wallet:7)  
+| Category | Video Title | Creation Date |  Link | Backup |
+|----------|-------------|---------------|--------------|--------|
+| BISafe | How to create a Bismuth cold storage address | Feb 19, 2018 | [Video](https://youtu.be/HB4HREjKJJc) | [Backup](https://lbry.tv/@bitsignal:a/bismuth-cold-storage-wallet:7) |
 
-### Bismuth Node
-  
-* Bismuth Node :: [Updating a Bismuth Node - Terminal](https://youtu.be/wXsBXK5Yo2s) :: (Jan 25, 2018)  
-* Bismuth Node :: Terminal :: [How to sync your Bismuth node using a snapshot](https://www.youtube.com/watch?v=RQfBeZTgFZo) :: (Jan 10, 2019) :: [Backup](https://lbry.tv/@bitsignal:a/how-to-sync-your-bismuth-node-using-a:4)  
+
+### Bismuth Main-Net
+
+| Category | Video Title | Creation Date |  Link | Backup |
+|----------|-------------|---------------|--------------|--------|
+| Node | Updating a Bismuth Node - Terminal | Jan 25, 2018 | [Video](https://youtu.be/wXsBXK5Yo2s) | N/A |
+| Node | Syncing Bismuth node using a snapshot | Jan 10, 2019 | [Video](https://youtu.be/RQfBeZTgFZo) | [Backup](https://lbry.tv/@bitsignal:a/how-to-sync-your-bismuth-node-using-a:4) |
+
 
 ### Bismuth GPU Mining
   
