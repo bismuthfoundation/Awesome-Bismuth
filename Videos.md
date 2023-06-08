@@ -10,14 +10,12 @@
 | Analysis | Interactive Bismuth Hypernode World Map | Feb 09, 2021 | [Video](https://youtu.be/wD8i4lr4J2c) | [Backup](https://lbry.tv/@bitsignal:a/bis-hypernode-world-map:5) |
 | Analysis | Bismuth - Video in Japanese language | Feb 24, 2022 | [Video](https://youtu.be/bOZKVf8yoH8) | N/A |
 
-
 ### Market
 
 | Category | Video Title | Creation Date |  Link | Backup |
 |----------|-------------|---------------|--------------|--------|
 | Market | How to buy/sell Bismuth at Openbazaar | Aug 3, 2018 | [Video](https://youtu.be/osVE05jrdXg) | [Backup](https://lbry.tv/@bitsignal:a/how-to-sell-cryptocurrency-using-the:f) |
 | Market | Trading BIS at the decentralized ViteX exchange | Sep 12, 2019 | [Video](https://youtu.be/dBAFJBAHSWw) | [Backup](https://lbry.tv/@bitsignal:a/trading-bis-a-decentralized-crypto:8) |
-
 
 ### Bismuth TK-Wallet (legacy)
 
@@ -30,13 +28,11 @@
 | TK-Wallet | Create a token transaction | May 10, 2018 | [Video](https://youtu.be/DSi0NJD4fQg) | [Backup](https://lbry.tv/@bitsignal:a/creating-a-bismuth-cryptocurrency-token:7) |
 | TK-Wallet | Load a wallet.json file into the TK-Wallet | April 11, 2020 | [Video](https://youtu.be/DQLPhXin8TA) | [Backup](https://lbry.tv/@bitsignal:a/2020-04-11-Bismuth-tk-wallet2:4) |
 
-
 ### Bismuth Paper Wallet
 
 | Category | Video Title | Creation Date |  Link | Backup |
 |----------|-------------|---------------|--------------|--------|
 | BISafe | How to create a Bismuth cold storage address | Feb 19, 2018 | [Video](https://youtu.be/HB4HREjKJJc) | [Backup](https://lbry.tv/@bitsignal:a/bismuth-cold-storage-wallet:7) |
-
 
 ### Bismuth Main-Net
 
@@ -45,14 +41,12 @@
 | Node | Updating a Bismuth Node - Terminal | Jan 25, 2018 | [Video](https://youtu.be/wXsBXK5Yo2s) | N/A |
 | Node | Syncing Bismuth node using a snapshot | Jan 10, 2019 | [Video](https://youtu.be/RQfBeZTgFZo) | [Backup](https://lbry.tv/@bitsignal:a/how-to-sync-your-bismuth-node-using-a:4) |
 
-
 ### Bismuth GPU Mining
   
 | Category | Video Title | Creation Date |  Link | Backup |
 |----------|-------------|---------------|--------------|--------|
 | Mining | Eggpool | Jan 20, 2018 | [Video](https://youtu.be/iLzSRoSX6Xw) | N/A |
 | Mining | Coinsaurus | Aug 23, 2022 | [Video](https://youtu.be/EqRENet5EOM) | [Backup](https://odysee.com/@bitsignal:a/gpu-mining-bismuth-python-blockchain:a) |
-
 
 ### Bismuth Hypernode Side-Chain
 
@@ -62,7 +56,6 @@
 | Hypernode | How to upgrade the Hypernode | Apr 10, 2019 | [Video](https://youtu.be/3hNaV3jWf_w) | [Backup](https://lbry.tv/@bitsignal:a/how-to-upgrade-a-bismuth-hypernode:1) |
 | Hypernode | Update the Hypernode Sentinel | Apr 11, 2019 | [Video](https://youtu.be/J5CMRhWpiNE) | N/A |
 
-
 ### Bismuth Discord Pawer Bot
 
 | Category | Video Title | Creation Date |  Link | Backup |
@@ -70,7 +63,6 @@
 | Pawer Bot | Basic Pawer Bot Commands | Dec 07, 2018 | [Video](https://youtu.be/j2GT-LDS-x8) | [Backup](https://lbry.tv/@bitsignal:a/use-the-pawer-bismuth-bot-to-create-an:7) |
 | Pawer Bot | Pawer Bot supports BISURL & OPERATION | Sep 19, 2020 | [Video](https://youtu.be/ICGtzxTFjDY) | [Backup](https://lbry.tv/@bitsignal:a/bismuth-pawer-bot:4) |
 | Pawer Bot | Pawer Bot supports Token Commands | Oct 08, 2020 | [Video](https://youtu.be/BYZFjTskhJw) | [Backup](https://open.lbry.com/@bitsignal:a/Bismuth---Discord-Pawer-Bot-Token-commands-added:e?r=Cs8xYuMLLM6cpLkssEHZ4mSUX8Py3S4D) |
-
 
 ### Bismuth Stats
 
@@ -80,7 +72,6 @@
 | Info | Bismuth Progress Report Nov 2019 | Dec 19, 2019 | [Video](https://youtu.be/ejbR_PXCo1g) | [Backup](https://lbry.tv/@bitsignal:a/crypto-bismuth-progress-report-2019-11:9) |
 | Info | Bismuth Github Activity 2019 | Jan 19, 2020 | [Video](https://youtu.be/Qmxw6KGu8y8) | N/A |
 | Info | Bismuth Progress Report May 2021 | May 23, 2021 | [Video](https://youtu.be/DbYCGUYlvrY) | [Backup](https://odysee.com/@Bismuth:f/BIS-Progress-Report-05-21:3) |
-
 
 ### Tornado Bismuth Wallet
 
@@ -99,29 +90,31 @@
 | Tornado Wallet | Tesla App (EV Battery Monitoring) | Nov 30, 2022 | [Video](https://youtu.be/WuF7_-dbcHg) | N/A |
 | Tornado Wallet | Choose Wallet Server | Mar 11, 2022 | [Video](https://youtu.be/Zo1oLAw-9kk) | [Backup](https://odysee.com/@bitsignal:a/tornado-bismuth-wallet-manually-choose:7) |
 
+### Bismuth NFT Application
 
-### Bismuth App - Dragginator
-
-* Bismuth App :: Crystal :: Dragginator :: [Join the Dragginator's Birthday Soccer Cup](https://youtu.be/Wsbm1wYeX_g) :: (Jun 17, 2019) :: [Backup](https://lbry.tv/@bitsignal:a/join-the-dragginator-s-birthday-soccer:b)  
-
-* Bismuth App :: Crystal :: Dragginator :: [Dragginator Birthday Cup Winners!](https://youtu.be/X6flrvfnscg) :: (Jul 02, 2019) :: [Backup](https://lbry.tv/@bitsignal:a/dragginator-birthday-cup-winners:3)  
-
-* Bismuth App :: Crystal :: Dragginator :: [Join the Dragginator Leagues - daily dragon blockchain games](https://youtu.be/WGS4NB9jENg) :: (Jul 24, 2019) :: [Backup](https://lbry.tv/@bitsignal:a/join-the-dragginator-leagues-daily:4)  
-
-* Bismuth App :: Crystal :: Dragginator :: [Dragginator 2020 New Year Cup](https://youtu.be/wP1tV2jIHSo) :: (Jan 03, 2020) :: [Backup](https://lbry.tv/@bitsignal:a/dragginator-2020-new-year-cup:4)  
-
-* Bismuth App :: Crystal :: Dragginator :: [Dragginator NFT Eggdrop](https://youtu.be/tNB90bMfjGw) :: (Mar 13, 2021) :: [Backup](https://open.lbry.com/@bitsignal:a/nft:a?r=7fkzC4ku6tVYZ3b5MWZSXPciu8EX3aCy)  
-
+| Category | Video Title | Creation Date |  Link | Backup |
+|----------|-------------|---------------|--------------|--------|
+| Dragginator | Dragginator's Birthday Soccer Cup | Jun 17, 2019 | [Video](https://youtu.be/Wsbm1wYeX_g) | [Backup](https://lbry.tv/@bitsignal:a/join-the-dragginator-s-birthday-soccer:b) |
+| Dragginator | Birthday Cup Winners | Jul 02, 2019 | [Video](https://youtu.be/X6flrvfnscg) | [Backup](https://lbry.tv/@bitsignal:a/dragginator-birthday-cup-winners:3) |
+| Dragginator | Dragginator Leagues | Jul 24, 2019 | [Video](https://youtu.be/WGS4NB9jENg) | [Backup](https://lbry.tv/@bitsignal:a/join-the-dragginator-leagues-daily:4) |
+| Dragginator | New Year 's Cup 2020 | Jan 03, 2020 | [Video](https://youtu.be/wP1tV2jIHSo) | [Backup](https://lbry.tv/@bitsignal:a/dragginator-2020-new-year-cup:4) |
+| Dragginator | NFT Eggdrop | Mar 13, 2021 | [Video](https://youtu.be/tNB90bMfjGw) | [Backup](https://open.lbry.com/@bitsignal:a/nft:a?r=7fkzC4ku6tVYZ3b5MWZSXPciu8EX3aCy) |
 
 ### Hack-with-BIS
 
-* Terminal :: Wallet :: Code :: [How to send a transaction from your code](https://www.youtube.com/watch?v=Ls2bFK71VaI) :: (Mar 19, 2020) :: [Backup](https://lbry.tv/@bitsignal:a/bismuth-send-tx-from-code:c)  
-* 03-WebAPI-PHP-Badge :: [Create your own Bismuth balance badge!](https://www.youtube.com/watch?v=jYP12BOaTzI) :: (Jul 01, 2020) :: [Backup](https://lbry.tv/@bitsignal:a/bismuth-badge-2020-07-01-15.25.36:e)
+| Category | Video Title | Creation Date |  Link | Backup |
+|----------|-------------|---------------|--------------|--------|
+| Tutorial | Sending a transaction | Mar 19, 2020 | [Video](https://youtu.be/Ls2bFK71VaI) | [Backup](https://lbry.tv/@bitsignal:a/bismuth-send-tx-from-code:c) |
+| Tutorial | Creating a Bismuth balance badge | Jul 01, 2020 | [Video](https://youtu.be/jYP12BOaTzI) | [Backup](https://lbry.tv/@bitsignal:a/bismuth-badge-2020-07-01-15.25.36:e) |
 
-### Bismuth App - Voting 
+### Bismuth Voting Application
 
-* Bismuth App :: Crystal :: Voting ::  [Bismuth Voting using the Tornado Bismuth Crystal](https://youtu.be/aiy4fTuDXy8) :: (Oct 03, 2019) :: [Backup](https://lbry.tv/@bitsignal:a/bismuth-voting-using-the-tornado-bismuth:e)  
+| Category | Video Title | Creation Date |  Link | Backup |
+|----------|-------------|---------------|--------------|--------|
+| Voting | Tornado Wallet Voting Crystal | Oct 03, 2019 | [Video](https://youtu.be/aiy4fTuDXy8) | [Backup](https://lbry.tv/@bitsignal:a/bismuth-voting-using-the-tornado-bismuth:e) |
 
-### Bismuth App - Shielded Token 
+### Bismuth Shielded Token Application
 
-* Bismuth App :: Shielded Token :: [Bismuth: What are shielded tokens?](https://youtu.be/SHNQHmZZKdo) :: (Dec 22, 2019) :: [Backup](https://lbry.tv/@bitsignal:a/bismuth-what-are-shielded-tokens:7)  
+| Category | Video Title | Creation Date |  Link | Backup |
+|----------|-------------|---------------|--------------|--------|
+| Shielded Tokens | Explaining Shielded Tokens | Dec 22, 2019 | [Video](https://youtu.be/SHNQHmZZKdo) | [Backup](https://lbry.tv/@bitsignal:a/bismuth-what-are-shielded-tokens:7) |  
