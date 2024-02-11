@@ -47,6 +47,7 @@ https://www.reddit.com/r/cryptobismuth
 ### Bis related
 Accounts for bis related services
 
+* XeggeX (Exchange) https://twitter.com/xeggex
 * qTrade (Exchange) https://twitter.com/qtradeio
 * Graviex (Exchange) https://twitter.com/graviex_net
 * ViteX (Exchange) https://twitter.com/vitexexchange
