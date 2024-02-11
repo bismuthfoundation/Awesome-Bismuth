@@ -28,7 +28,7 @@ https://discord.bismuth.live
 
 ## Other channels
 
-* Youtube Channel - https://www.youtube.com/channel/UCjcTUJjqFFwwst2xxz9pF2A
+* Youtube Channel - https://www.youtube.com/@bismuthplatform
 
 ### Medium
 
