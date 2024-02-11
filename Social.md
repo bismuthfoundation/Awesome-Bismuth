@@ -60,6 +60,7 @@ Accounts for bis related services
 * Coinmarketcap https://coinmarketcap.com/currencies/bismuth
 * Coingecko https://www.coingecko.com/en/coins/bismuth
 * Coinpaprika https://coinpaprika.com/coin/bis-bismuth
+* Livecoinwatch https://www.livecoinwatch.com/price/Bismuth-BIS
 
 
 ### Bis supporters
