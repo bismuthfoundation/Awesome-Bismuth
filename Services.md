@@ -10,12 +10,15 @@ Core services and things you can buy with $BIS.
 
 ## Centralized Exchanges (CEX)
 
+* [Xeggex](https://xeggex.com/markets) - [BIS/USDT](https://xeggex.com/market/BIS_USDT) - [BIS/LTC](https://xeggex.com/market/BIS_LTC) (since Feb. 2024)  
 * [Graviex](https://graviex.net/markets/bisbtc)  
 * [Finexbox](https://www.finexbox.com/)  
+
+### Out of Service  
 * [qTrade](https://qtradehelp.zendesk.com/hc/en-us/articles/11423085662733) (qTrade.io has shut down, December 31st, 2022)  
 * [Unnamed](https://www.unnamed.exchange/Exchange/Basic?market=BIS_BTC)  
 * [Cryptopia](https://www.cryptopia.co.nz) (liquidation process, hacked Jan. 2019)  
-  This first exchange $BIS was listed on.
+  Cryptopia was the initial exchange where $BIS debuted.  
 
   
 ## Mining pools
