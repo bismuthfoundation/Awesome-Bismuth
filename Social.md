@@ -30,6 +30,10 @@ https://discord.bismuth.live
 
 * Youtube Channel - https://www.youtube.com/channel/UCjcTUJjqFFwwst2xxz9pF2A
 
+### Medium
+
+https://medium.com/@bismuthplatform
+
 ### Facebook
 
 https://www.facebook.com/cryptobismuth
