@@ -83,9 +83,8 @@ http://www.mic-journal.no/ABS/MIC-2018-3-1.asp
 
 
   
-* What is Bismuth coin?  
-  https://www.geekxplore.com/what-is-bismuth-coin.html
+* Bismuth (BIS) - A Sleeping Legend that Should be Remembered (March 5th, 2024)  
+  https://www.publish0x.com/crypto-bits/bismuthbis-a-sleeping-legend-that-should-be-remembered-xxvlvol
 
-* Bismuth Mining Evolution  
-  https://medium.com/@bismuthfoundation/bismuth-mining-evolution-d990ae680a7f
+
 
